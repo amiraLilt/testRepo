@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
+  <file original="639" source-language="en-US" target-language="pt-BR" datatype="html">
+    <body>
+      <trans-unit id="5385-0">
+        <source xml:lang="en-US">The transaction has expired, please try again.</source>
+        <target xml:lang="pt-BR">A transação expirou, tente novamente.</target>
+      </trans-unit>
+      <trans-unit id="5386-0">
+        <source xml:lang="en-US">Billing method</source>
+        <target xml:lang="pt-BR">Método de cobrança</target>
+      </trans-unit>
+      <trans-unit id="5387-0">
+        <source xml:lang="en-US">To submit a resale certificate in {state}, you need to submit your seller's permit as well. Just include it when you scan your resale certificate.</source>
+        <target xml:lang="pt-BR">Para enviar um certificado de revenda em {state}, envie também a licença de seu vendedor. Basta incluí-la quando digitalizar seu certificado de revenda.</target>
+      </trans-unit>
+      <trans-unit id="5390-0">
+        <source xml:lang="en-US">Back to order</source>
+        <target xml:lang="pt-BR">Voltar para o pedido</target>
+      </trans-unit>
+      <trans-unit id="5391-0">
+        <source xml:lang="en-US">Payment Instrument</source>
+        <target xml:lang="pt-BR">Instrumento de pagamento</target>
+      </trans-unit>
+      <trans-unit id="5392-0">
+        <source xml:lang="en-US">Refund #{orderNumber}</source>
+        <target xml:lang="pt-BR">Reembolso #{orderNumber}</target>
+      </trans-unit>
+      <trans-unit id="5393-0">
+        <source xml:lang="en-US">Please try again later. If the issue persists, contact us at {email}</source>
+        <target xml:lang="pt-BR">Tente novamente mais tarde. Se o problema persistir, entre em contato conosco em {email}</target>
+      </trans-unit>
+      <trans-unit id="5394-0">
+        <source xml:lang="en-US">Please authorize your payment</source>
+        <target xml:lang="pt-BR">Autorize seu pagamento</target>
+      </trans-unit>
+      <trans-unit id="5395-0">
+        <source xml:lang="en-US">Withdrawal process completed!</source>
+        <target xml:lang="pt-BR">Processo de retirada concluído!</target>
+      </trans-unit>
+      <trans-unit id="5397-0">
+        <source xml:lang="en-US">Please fill the Credit Card data correctly.</source>
+        <target xml:lang="pt-BR">Insira corretamente os dados do cartão de crédito.</target>
+      </trans-unit>
+      <trans-unit id="5398-0">
+        <source xml:lang="en-US">Accept by {date}</source>
+        <target xml:lang="pt-BR">Aceito por {date}</target>
+      </trans-unit>
+      <trans-unit id="5399-0">
+        <source xml:lang="en-US">Action</source>
+        <target xml:lang="pt-BR">Ação</target>
+      </trans-unit>
+      <trans-unit id="5400-0">
+        <source xml:lang="en-US">Download invoices (*.zip)</source>
+        <target xml:lang="pt-BR">Fazer o download de faturas (*.zip)</target>
+      </trans-unit>
+      <trans-unit id="5401-0">
+        <source xml:lang="en-US">Search product by title</source>
+        <target xml:lang="pt-BR">Pesquisar produto por título</target>
+      </trans-unit>
+      <trans-unit id="5402-0">
+        <source xml:lang="en-US">Currency</source>
+        <target xml:lang="pt-BR">Moeda</target>
+      </trans-unit>
+      <trans-unit id="5403-0">
+        <source xml:lang="en-US">Amount</source>
+        <target xml:lang="pt-BR">Quantidade</target>
+      </trans-unit>
+      <trans-unit id="5404-0">
+        <source xml:lang="en-US">Billing method changes</source>
+        <target xml:lang="pt-BR">Alterações do método de cobrança</target>
+      </trans-unit>
+      <trans-unit id="5405-0">
+        <source xml:lang="en-US">{orderLimit} sample order ({itemLimit} items each) at 20% off + free shipping</source>
+        <target xml:lang="pt-BR">{orderLimit}pedido de amostra ({itemLimit}itens cada) com 20% de desconto + frete grátis</target>
+      </trans-unit>
+      <trans-unit id="5406-0">
+        <source xml:lang="en-US">Error saving card!</source>
+        <target xml:lang="pt-BR">Erro ao salvar o cartão.</target>
+      </trans-unit>
+      <trans-unit id="5407-0">
+        <source xml:lang="en-US">Order no.:#PF7654321</source>
+        <target xml:lang="pt-BR">Nº do pedido:#PF7654321</target>
+        <note>example order no</note>
+      </trans-unit>
+      <trans-unit id="5408-0">
+        <source xml:lang="en-US">GST ID certificate</source>
+        <target xml:lang="pt-BR">Certificado de identificação GST</target>
+      </trans-unit>
+      <trans-unit id="5409-0">
+        <source xml:lang="en-US">Wallet Deposit</source>
+        <target xml:lang="pt-BR">Depósito da carteira</target>
+      </trans-unit>
+      <trans-unit id="5412-0">
+        <source xml:lang="en-US">Tax</source>
+        <target xml:lang="pt-BR">Imposto</target>
+      </trans-unit>
+      <trans-unit id="5413-0">
+        <source xml:lang="en-US">Payment method submitted successfully.</source>
+        <target xml:lang="pt-BR">Forma de pagamento enviada com sucesso.</target>
+      </trans-unit>
+      <trans-unit id="5417-0">
+        <source xml:lang="en-US">Withdrawal partially completed</source>
+        <target xml:lang="pt-BR">Retirada parcialmente concluída</target>
+      </trans-unit>
+      <trans-unit id="5418-0">
+        <source xml:lang="en-US">New Sofort</source>
+        <target xml:lang="pt-BR">Novo Sofort</target>
+      </trans-unit>
+      <trans-unit id="5419-0">
+        <source xml:lang="en-US">Legal Info</source>
+        <target xml:lang="pt-BR">Informações legais</target>
+      </trans-unit>
+      <trans-unit id="5420-0">
+        <source xml:lang="en-US">Deposit to wallet</source>
+        <target xml:lang="pt-BR">Depósito na carteira</target>
+      </trans-unit>
+      <trans-unit id="5423-0">
+        <source xml:lang="en-US">Set a different billing method for each store. We'll automatically use your account's primary billing method unless otherwise specified.</source>
+        <target xml:lang="pt-BR">Definir um método de cobrança diferente para cada loja. O método de cobrança principal de sua conta será automaticamente utilizado, a não ser que você defina outro método.</target>
+      </trans-unit>
+      <trans-unit id="5426-0">
+        <source xml:lang="en-US">Pending</source>
+        <target xml:lang="pt-BR">Pendente</target>
+      </trans-unit>
+      <trans-unit id="5427-0">
+        <source xml:lang="en-US">Printful Setup Services</source>
+        <target xml:lang="pt-BR">Serviços de configuração da Printful</target>
+      </trans-unit>
+      <trans-unit id="5429-0">
+        <source xml:lang="en-US">Download report (*.xlsx)</source>
+        <target xml:lang="pt-BR">Fazer o download do relatório (*.xlsx)</target>
+      </trans-unit>
+      <trans-unit id="5431-0">
+        <source xml:lang="en-US">Boost sales</source>
+        <target xml:lang="pt-BR">Aumentar as vendas</target>
+      </trans-unit>
+      <trans-unit id="5433-0">
+        <source xml:lang="en-US">If your Wallet balance is greater than your last deposit, we’ll refund the next most recent deposits until your entire Printful Wallet balance is withdrawn.</source>
+        <target xml:lang="pt-BR">Se o saldo de sua Carteira for maior do que seu último depósito, nós reembolsaremos os depósitos mais recentes até que o saldo total de sua Carteira Printful seja retirado.</target>
+      </trans-unit>
+      <trans-unit id="5435-0">
+        <source xml:lang="en-US">Are you sure you want to withdraw funds?</source>
+        <target xml:lang="pt-BR">Tem certeza que deseja retirar recursos?</target>
+      </trans-unit>
+      <trans-unit id="5437-0">
+        <source xml:lang="en-US">Do you want to delete this billing method?</source>
+        <target xml:lang="pt-BR">Deseja excluir esse método de cobrança?</target>
+      </trans-unit>
+      <trans-unit id="5438-0">
+        <source xml:lang="en-US">Address</source>
+        <target xml:lang="pt-BR">Endereço</target>
+      </trans-unit>
+      <trans-unit id="5439-0">
+        <source xml:lang="en-US">Create a returns policy</source>
+        <target xml:lang="pt-BR">Criar uma política de devolução</target>
+      </trans-unit>
+      <trans-unit id="5440-0">
+        <source xml:lang="en-US">Last Month</source>
+        <target xml:lang="pt-BR">Último mês</target>
+      </trans-unit>
+      <trans-unit id="5441-0">
+        <source xml:lang="en-US">Unknown merchant, can't process transaction!</source>
+        <target xml:lang="pt-BR">Vendedor desconhecido, não é possível processar a transação.</target>
+      </trans-unit>
+      <trans-unit id="5443-0">
+        <source xml:lang="en-US">Add manually</source>
+        <target xml:lang="pt-BR">Incluir manualmente</target>
+      </trans-unit>
+      <trans-unit id="5444-0">
+        <source xml:lang="en-US">Removed</source>
+        <target xml:lang="pt-BR">Removido</target>
+      </trans-unit>
+      <trans-unit id="5445-0">
+        <source xml:lang="en-US">Choose a billing method in your store’s default currency</source>
+        <target xml:lang="pt-BR">Escolha um método de cobrança na moeda padrão de sua loja</target>
+      </trans-unit>
+      <trans-unit id="5447-0">
+        <source xml:lang="en-US">Name</source>
+        <target xml:lang="pt-BR">Nome</target>
+      </trans-unit>
+      <trans-unit id="5449-0">
+        <source xml:lang="en-US">Authorize payment</source>
+        <target xml:lang="pt-BR">Autorizar o pagamento</target>
+      </trans-unit>
+      <trans-unit id="5450-0">
+        <source xml:lang="en-US">Something went wrong, please try again later!</source>
+        <target xml:lang="pt-BR">Algo deu errado, tente novamente mais tarde.</target>
+      </trans-unit>
+      <trans-unit id="5451-0">
+        <source xml:lang="en-US">Don't have a VAT certificate? Submit a copy of an invoice that has your VAT ID and company name</source>
+        <target xml:lang="pt-BR">Não possui um certificado VAT? Envie a cópia de uma fatura que tenha a sua identificação VAT e o nome da empresa</target>
+      </trans-unit>
+      <trans-unit id="5452-0">
+        <source xml:lang="en-US">Add Money</source>
+        <target xml:lang="pt-BR">Adicionar dinheiro</target>
+      </trans-unit>
+      <trans-unit id="5453-0">
+        <source xml:lang="en-US">No payment method added.</source>
+        <target xml:lang="pt-BR">Nenhuma forma de pagamento incluída.</target>
+      </trans-unit>
+      <trans-unit id="5455-0">
+        <source xml:lang="en-US">Withdrawal failed</source>
+        <target xml:lang="pt-BR">Retirada falhou</target>
+      </trans-unit>
+      <trans-unit id="5456-0">
+        <source xml:lang="en-US">EUR only</source>
+        <target xml:lang="pt-BR">Somente EUR</target>
+      </trans-unit>
+      <trans-unit id="5457-0">
+        <source xml:lang="en-US">Invalid environment data!</source>
+        <target xml:lang="pt-BR">Dados de ambiente inválidos.</target>
+      </trans-unit>
+      <trans-unit id="5458-0">
+        <source xml:lang="en-US">Withdrawal currently unavailable</source>
+        <target xml:lang="pt-BR">Retirada indisponível no momento</target>
+      </trans-unit>
+      <trans-unit id="5460-0">
+        <source xml:lang="en-US">Your order’s currency doesn’t match the discount code’s currency</source>
+        <target xml:lang="pt-BR">A moeda em seu pedido não corresponde à moeda do código de desconto</target>
+      </trans-unit>
+      <trans-unit id="5462-0">
+        <source xml:lang="en-US">Choose the month you'd like to see. We'll send a downloadable link with those invoices to your email.</source>
+        <target xml:lang="pt-BR">Escolha o mês que deseja visualizar. Enviaremos por e-mail um link para o download dessas faturas.</target>
+      </trans-unit>
+      <trans-unit id="5463-0">
+        <source xml:lang="en-US">Invoice</source>
+        <target xml:lang="pt-BR">Fatura</target>
+      </trans-unit>
+      <trans-unit id="5465-0">
+        <source xml:lang="en-US">Expires {date}</source>
+        <target xml:lang="pt-BR">Expira {date}</target>
+      </trans-unit>
+      <trans-unit id="5466-0">
+        <source xml:lang="en-US">New Method</source>
+        <target xml:lang="pt-BR">Novo método</target>
+      </trans-unit>
+      <trans-unit id="5468-0">
+        <source xml:lang="en-US">Deposit to Wallet</source>
+        <target xml:lang="pt-BR">Depósito na Carteira</target>
+      </trans-unit>
+      <trans-unit id="5469-0">
+        <source xml:lang="en-US">empty</source>
+        <target xml:lang="pt-BR">vazio</target>
+      </trans-unit>
+      <trans-unit id="5470-0">
+        <source xml:lang="en-US">Get more sample orders in {month}:</source>
+        <target xml:lang="pt-BR">Obter mais pedidos de amostra em {month}:</target>
+      </trans-unit>
+      <trans-unit id="5471-0">
+        <source xml:lang="en-US">Custom value</source>
+        <target xml:lang="pt-BR">Valor personalizado</target>
+      </trans-unit>
+      <trans-unit id="5473-0">
+        <source xml:lang="en-US">Error: your default store billing method doesn't support this currency.</source>
+        <target xml:lang="pt-BR">Erro: o método de cobrança padrão de sua loja não suporta essa moeda.</target>
+      </trans-unit>
+      <trans-unit id="5475-0">
+        <source xml:lang="en-US">Offered discount</source>
+        <target xml:lang="pt-BR">Desconto oferecido</target>
+      </trans-unit>
+      <trans-unit id="5477-0">
+        <source xml:lang="en-US">Withdraw funds</source>
+        <target xml:lang="pt-BR">Retirar recursos</target>
+      </trans-unit>
+      <trans-unit id="5478-0">
+        <source xml:lang="en-US">Processing, please wait...</source>
+        <target xml:lang="pt-BR">Em processamento, aguarde...</target>
+      </trans-unit>
+      <trans-unit id="5479-0">
+        <source xml:lang="en-US">Warehousing Administrative Fee</source>
+        <target xml:lang="pt-BR">Taxa administrativa de armazenagem</target>
+      </trans-unit>
+      <trans-unit id="5480-0">
+        <source xml:lang="en-US">Store currency</source>
+        <target xml:lang="pt-BR">Moeda da loja</target>
+      </trans-unit>
+      <trans-unit id="5481-0">
+        <source xml:lang="en-US">VAT certificate</source>
+        <target xml:lang="pt-BR">Certificado VAT</target>
+      </trans-unit>
+      <trans-unit id="5482-0">
+        <source xml:lang="en-US">Time period too long! Maximal allowed time period is half year.</source>
+        <target xml:lang="pt-BR">Período muito longo. O período máximo permitido é de seis meses.</target>
+      </trans-unit>
+      <trans-unit id="5483-0">
+        <source xml:lang="en-US">Resale Certificate</source>
+        <target xml:lang="pt-BR">Certificado de revenda</target>
+      </trans-unit>
+      <trans-unit id="5484-0">
+        <source xml:lang="en-US">I confirm that the information provided is accurate and correct.</source>
+        <target xml:lang="pt-BR">Confirmo que as informações fornecidas são verdadeiras e autênticas.</target>
+      </trans-unit>
+      <trans-unit id="5485-0">
+        <source xml:lang="en-US">Transaction #{transactionId}</source>
+        <target xml:lang="pt-BR">Transação #{transactionId}</target>
+      </trans-unit>
+      <trans-unit id="5487-0">
+        <source xml:lang="en-US">Primary billing method successfully set</source>
+        <target xml:lang="pt-BR">Método de cobrança principal definido com sucesso</target>
+      </trans-unit>
+      <trans-unit id="5488-0">
+        <source xml:lang="en-US">Double check that you are entering the right number. If that doesn't work, the “VAT Information Exchange System” (VIES) has downtime. Try submitting again in an hour. If that still doesn't work, reach out to us at {linkStart}taxexemptions@printful.com{linkEnd}</source>
+        <target xml:lang="pt-BR">Verifique se inseriu o número correto. Se não funcionar, o “Sistema de Troca de Informações do VAT” (VIES) pode estar inativo. Tente enviar novamente em uma hora. Se ainda não funcionar, entre em contato conosco pelo e-mail {linkStart}taxexemptions@printful.com{linkEnd}</target>
+      </trans-unit>
+      <trans-unit id="5489-0">
+        <source xml:lang="en-US">Billing method successfully removed!</source>
+        <target xml:lang="pt-BR">Método de cobrança removido com sucesso.</target>
+      </trans-unit>
+      <trans-unit id="5490-0">
+        <source xml:lang="en-US">Please add a billing method to your account if you want to turn on auto-recharge.</source>
+        <target xml:lang="pt-BR">Inclua um método de cobrança em sua conta se deseja ativar a recarga automática.</target>
+      </trans-unit>
+      <trans-unit id="5491-0">
+        <source xml:lang="en-US">How Does Billing Work</source>
+        <target xml:lang="pt-BR">Como funciona a cobrança</target>
+      </trans-unit>
+      <trans-unit id="5492-0">
+        <source xml:lang="en-US">Payment failed:</source>
+        <target xml:lang="pt-BR">Pagamento falhou:</target>
+      </trans-unit>
+      <trans-unit id="5493-0">
+        <source xml:lang="en-US">USD only</source>
+        <target xml:lang="pt-BR">Somente USD</target>
+      </trans-unit>
+      <trans-unit id="5494-0">
+        <source xml:lang="en-US">Total paid ({currencySymbol}):</source>
+        <target xml:lang="pt-BR">Total pago ({currencySymbol}):</target>
+      </trans-unit>
+      <trans-unit id="5495-0">
+        <source xml:lang="en-US">generating</source>
+        <target xml:lang="pt-BR">gerando</target>
+      </trans-unit>
+      <trans-unit id="5496-0">
+        <source xml:lang="en-US">Period to is not a valid value</source>
+        <target xml:lang="pt-BR">O período até não é válido</target>
+      </trans-unit>
+      <trans-unit id="5498-0">
+        <source xml:lang="en-US">Auto recharge amount should be between {minRecharge} and {maxRecharge}</source>
+        <target xml:lang="pt-BR">O valor da recarga automática deve ser entre {minRecharge} e {maxRecharge}</target>
+      </trans-unit>
+      <trans-unit id="5499-0">
+        <source xml:lang="en-US">Invalid credit card!</source>
+        <target xml:lang="pt-BR">Cartão de crédito inválido.</target>
+      </trans-unit>
+      <trans-unit id="5501-0">
+        <source xml:lang="en-US">Withdrawal from wallet</source>
+        <target xml:lang="pt-BR">Retirada da carteira</target>
+      </trans-unit>
+      <trans-unit id="5502-0">
+        <source xml:lang="en-US">Default payment method changed.</source>
+        <target xml:lang="pt-BR">Forma de pagamento padrão alterada.</target>
+      </trans-unit>
+      <trans-unit id="5503-0">
+        <source xml:lang="en-US">Your {currency} Wallet balance is {walletBalance}, but we’ll auto charge {sum} from your default payment method to pay for this service and refill your Wallet.</source>
+        <target xml:lang="pt-BR">O {currency} saldo em sua Carteira é de {walletBalance}, mas faremos a cobrança automática de {sum} de sua forma de pagamento padrão para pagar por esse serviço e recarregar sua Carteira.</target>
+      </trans-unit>
+      <trans-unit id="5504-0">
+        <source xml:lang="en-US">Auto recharge</source>
+        <target xml:lang="pt-BR">Recarga automática</target>
+      </trans-unit>
+      <trans-unit id="5505-0">
+        <source xml:lang="en-US">Store currency successfully changed!</source>
+        <target xml:lang="pt-BR">Moeda da loja alterada com sucesso.</target>
+      </trans-unit>
+      <trans-unit id="5506-0">
+        <source xml:lang="en-US">Chargeback</source>
+        <target xml:lang="pt-BR">Estorno</target>
+      </trans-unit>
+      <trans-unit id="5507-0">
+        <source xml:lang="en-US">Something went wrong!</source>
+        <target xml:lang="pt-BR">Algo deu errado.</target>
+      </trans-unit>
+      <trans-unit id="5508-0">
+        <source xml:lang="en-US">Invalid paymentId</source>
+        <target xml:lang="pt-BR">Identificação de pagamento inválida</target>
+      </trans-unit>
+      <trans-unit id="5509-0">
+        <source xml:lang="en-US">Printful PostPay Services</source>
+        <target xml:lang="pt-BR">Serviços de PostPay da Printful</target>
+      </trans-unit>
+      <trans-unit id="5510-0">
+        <source xml:lang="en-US">Approved</source>
+        <target xml:lang="pt-BR">Aprovado</target>
+      </trans-unit>
+      <trans-unit id="5511-0">
+        <source xml:lang="en-US">No invoices for this time period</source>
+        <target xml:lang="pt-BR">Nenhuma fatura encontrada nesse período</target>
+      </trans-unit>
+      <trans-unit id="5514-0">
+        <source xml:lang="en-US">Sofort</source>
+        <target xml:lang="pt-BR">Sofort</target>
+      </trans-unit>
+      <trans-unit id="5515-0">
+        <source xml:lang="en-US">Registration No. cannot be blank.</source>
+        <target xml:lang="pt-BR">O número de cadastro não pode ficar em branco.</target>
+      </trans-unit>
+      <trans-unit id="5517-0">
+        <source xml:lang="en-US">Expired {date}</source>
+        <target xml:lang="pt-BR">Vencido {date}</target>
+      </trans-unit>
+      <trans-unit id="5519-0">
+        <source xml:lang="en-US">Pack-In Keeping Fee</source>
+        <target xml:lang="pt-BR">Taxa de manutenção Pack-In</target>
+      </trans-unit>
+      <trans-unit id="5520-0">
+        <source xml:lang="en-US">Status</source>
+        <target xml:lang="pt-BR">Status</target>
+      </trans-unit>
+      <trans-unit id="5521-0">
+        <source xml:lang="en-US">Order #{orderNumber}</source>
+        <target xml:lang="pt-BR">Pedido #{orderNumber}</target>
+      </trans-unit>
+      <trans-unit id="5522-0">
+        <source xml:lang="en-US">{amount} was added to Printful Wallet.</source>
+        <target xml:lang="pt-BR">{amount}foi adicionado à Carteira Printful.</target>
+      </trans-unit>
+      <trans-unit id="5524-0">
+        <source xml:lang="en-US">Choose the currency that Printful will charge you in. Learn more and set your store’s currency by going to Billing Methods.</source>
+        <target xml:lang="pt-BR">Escolha a moeda para as cobranças da Printful. Saiba mais e defina a moeda de sua loja em Métodos de cobrança.</target>
+      </trans-unit>
+      <trans-unit id="5525-0">
+        <source xml:lang="en-US">Payment declined!</source>
+        <target xml:lang="pt-BR">Pagamento não autorizado.</target>
+      </trans-unit>
+      <trans-unit id="5526-0">
+        <source xml:lang="en-US">Period from is not a valid value</source>
+        <target xml:lang="pt-BR">O período a partir de não é válido</target>
+      </trans-unit>
+      <trans-unit id="5527-0">
+        <source xml:lang="en-US">Your {currency} Wallet balance is {walletBalance}, but we’ll auto charge {sum} from your default payment method to pay for this order and refill your Wallet.</source>
+        <target xml:lang="pt-BR">O {currency} saldo em sua Carteira é de {walletBalance}, mas faremos a cobrança automática de {sum} de sua forma de pagamento padrão para pagar por esse serviço e recarregar sua Carteira.</target>
+      </trans-unit>
+      <trans-unit id="5528-0">
+        <source xml:lang="en-US">waiting</source>
+        <target xml:lang="pt-BR">aguardando</target>
+      </trans-unit>
+      <trans-unit id="5529-0">
+        <source xml:lang="en-US">VAT ID</source>
+        <target xml:lang="pt-BR">Identificação VAT</target>
+      </trans-unit>
+      <trans-unit id="5530-0">
+        <source xml:lang="en-US">Please try again in 3 hours to receive the remaining amount. If the issue persists, please contact {email}</source>
+        <target xml:lang="pt-BR">Tente novamente em 3 horas para receber o valor restante. Se o problema persistir, entre em contato com {email}</target>
+      </trans-unit>
+      <trans-unit id="5531-0">
+        <source xml:lang="en-US">Voided</source>
+        <target xml:lang="pt-BR">Anulado</target>
+      </trans-unit>
+      <trans-unit id="5532-0">
+        <source xml:lang="en-US">Error:</source>
+        <target xml:lang="pt-BR">Erro:</target>
+      </trans-unit>
+      <trans-unit id="5533-0">
+        <source xml:lang="en-US">Please enter either Environment Id or Customer email</source>
+        <target xml:lang="pt-BR">Insira a identificação de ambiente ou o e-mail do cliente</target>
+      </trans-unit>
+      <trans-unit id="5534-0">
+        <source xml:lang="en-US">Expired</source>
+        <target xml:lang="pt-BR">Vencido</target>
+      </trans-unit>
+      <trans-unit id="5536-0">
+        <source xml:lang="en-US">Off</source>
+        <target xml:lang="pt-BR">Desativado</target>
+      </trans-unit>
+      <trans-unit id="5537-0">
+        <source xml:lang="en-US">Total deposits to wallet ({currencySymbol}):</source>
+        <target xml:lang="pt-BR">Total de depósitos na carteira ({currencySymbol}):</target>
+      </trans-unit>
+      <trans-unit id="5539-0">
+        <source xml:lang="en-US">Transaction #{transactionNumber}</source>
+        <target xml:lang="pt-BR">Transação #{transactionNumber}</target>
+      </trans-unit>
+      <trans-unit id="5541-0">
+        <source xml:lang="en-US">Please submit your ABN certificate that states you're registered to charge GST</source>
+        <target xml:lang="pt-BR">Envie seu certificado ABN que confirma seu cadastrado para cobrar o GST</target>
+      </trans-unit>
+      <trans-unit id="5542-0">
+        <source xml:lang="en-US">Period from is required</source>
+        <target xml:lang="pt-BR">O período a partir de é necessário</target>
+      </trans-unit>
+      <trans-unit id="5543-0">
+        <source xml:lang="en-US">Samples for Photography Services</source>
+        <target xml:lang="pt-BR">Amostras para Serviços de fotografia</target>
+      </trans-unit>
+      <trans-unit id="5545-0">
+        <source xml:lang="en-US">To boost sales, you can</source>
+        <target xml:lang="pt-BR">Para aumentar as vendas, você pode</target>
+      </trans-unit>
+      <trans-unit id="5546-0">
+        <source xml:lang="en-US"><![CDATA[Click the button below and we&#39;ll <b>redirect you to Sofort</b>, where you can safely authorize your payment.]]></source>
+        <target xml:lang="pt-BR"><![CDATA[Clique no botão abaixo e você será <b>redirecionado para o Sofort</b>, onde poderá autorizar seu pagamento com segurança.]]></target>
+      </trans-unit>
+      <trans-unit id="5547-0">
+        <source xml:lang="en-US">US Dollar</source>
+        <target xml:lang="pt-BR">Dólar americano</target>
+      </trans-unit>
+      <trans-unit id="5548-0">
+        <source xml:lang="en-US">Note that the process is automatic and can't be undone.</source>
+        <target xml:lang="pt-BR">Importante: o processo é automático e não pode ser desfeito.</target>
+      </trans-unit>
+      <trans-unit id="5549-0">
+        <source xml:lang="en-US">We'll issue a refund for a total amount of {amount}. If it doesn't get processed immediately, then follow your payment history section for updates.</source>
+        <target xml:lang="pt-BR">Enviaremos um reembolso no valor total de {amount}. Se não for processado imediatamente, verifique as atualizações em seu histórico de pagamentos.</target>
+      </trans-unit>
+      <trans-unit id="5551-0">
+        <source xml:lang="en-US">Wallet</source>
+        <target xml:lang="pt-BR">Carteira</target>
+      </trans-unit>
+      <trans-unit id="5553-0">
+        <source xml:lang="en-US">We do not store your card details. We use industry-standard encryption to protect your personal information.</source>
+        <target xml:lang="pt-BR">Não armazenamos os dados de seu cartão. Utilizamos a criptografia padrão do setor para proteger suas informações pessoais.</target>
+      </trans-unit>
+      <trans-unit id="5554-0">
+        <source xml:lang="en-US">Period from can not be greater than period to</source>
+        <target xml:lang="pt-BR">O período a partir de não pode ser maior que o período até</target>
+      </trans-unit>
+      <trans-unit id="5555-0">
+        <source xml:lang="en-US">Total amount paid</source>
+        <target xml:lang="pt-BR">Valor total pago</target>
+      </trans-unit>
+      <trans-unit id="5556-0">
+        <source xml:lang="en-US">Customs Clearance</source>
+        <target xml:lang="pt-BR">Desembaraço alfandegário</target>
+      </trans-unit>
+      <trans-unit id="5557-0">
+        <source xml:lang="en-US">${amount}</source>
+        <target xml:lang="pt-BR">${amount}</target>
+      </trans-unit>
+      <trans-unit id="5558-0">
+        <source xml:lang="en-US">White-Label support</source>
+        <target xml:lang="pt-BR">Suporte White-Label</target>
+      </trans-unit>
+      <trans-unit id="5561-0">
+        <source xml:lang="en-US">Payments</source>
+        <target xml:lang="pt-BR">Pagamentos</target>
+      </trans-unit>
+      <trans-unit id="5562-0">
+        <source xml:lang="en-US">(not enough to pay for this order)</source>
+        <target xml:lang="pt-BR">(insuficiente para pagar por esse pedido)</target>
+      </trans-unit>
+      <trans-unit id="5564-0">
+        <source xml:lang="en-US">BILL TO</source>
+        <target xml:lang="pt-BR">ENVIAR COBRANÇA PARA</target>
+        <note>billing</note>
+      </trans-unit>
+      <trans-unit id="5565-0">
+        <source xml:lang="en-US">All other billing methods</source>
+        <target xml:lang="pt-BR">Todos os outros métodos de cobrança</target>
+      </trans-unit>
+      <trans-unit id="5566-0">
+        <source xml:lang="en-US">Payment method issue:</source>
+        <target xml:lang="pt-BR">Problema da forma de pagamento:</target>
+      </trans-unit>
+      <trans-unit id="5567-0">
+        <source xml:lang="en-US">Payment method not available!</source>
+        <target xml:lang="pt-BR">Forma de pagamento não disponível.</target>
+      </trans-unit>
+      <trans-unit id="5568-0">
+        <source xml:lang="en-US">Printful Store Setup Services</source>
+        <target xml:lang="pt-BR">Serviços de configuração da loja Printful</target>
+      </trans-unit>
+      <trans-unit id="5569-0">
+        <source xml:lang="en-US">Discounts</source>
+        <target xml:lang="pt-BR">Descontos</target>
+      </trans-unit>
+      <trans-unit id="5570-0">
+        <source xml:lang="en-US">Custom Product Keeping</source>
+        <target xml:lang="pt-BR">Manutenção de produtos personalizados</target>
+      </trans-unit>
+      <trans-unit id="5571-0">
+        <source xml:lang="en-US">Many people leave the checkout without buying after seeing the shipping costs. By promoting free shipping if they buy enough, people are much happier to buy more.</source>
+        <target xml:lang="pt-BR">Muitas pessoas saem do checkout sem comprar depois de ver os custos de envio. Ao oferecer o frete grátis para um mínimo de compras, as pessoas ficam mais dispostas a comprar mais.</target>
+      </trans-unit>
+      <trans-unit id="5574-0">
+        <source xml:lang="en-US">I confirm I understand the withdrawal process and take full responsibility for where the funds will go</source>
+        <target xml:lang="pt-BR">Confirmo que entendo o processo de retirada e assumo total responsabilidade pelo destino dos recursos</target>
+      </trans-unit>
+      <trans-unit id="5575-0">
+        <source xml:lang="en-US">Your balance</source>
+        <target xml:lang="pt-BR">Seu saldo</target>
+      </trans-unit>
+      <trans-unit id="5577-0">
+        <source xml:lang="en-US">Back to unconfirmed payments</source>
+        <target xml:lang="pt-BR">Voltar para pagamentos não confirmados</target>
+      </trans-unit>
+      <trans-unit id="5578-0">
+        <source xml:lang="en-US">Remove</source>
+        <target xml:lang="pt-BR">Remover</target>
+        <note>file</note>
+      </trans-unit>
+      <trans-unit id="5580-0">
+        <source xml:lang="en-US">ABN</source>
+        <target xml:lang="pt-BR">ABN</target>
+        <note>I don't find a translation for ABN if it's Australian Business Number can we keep ABN in French?</note>
+      </trans-unit>
+      <trans-unit id="5581-0">
+        <source xml:lang="en-US">Finding groups of people in your niche will mean they are more likely to enjoy and buy your product.</source>
+        <target xml:lang="pt-BR">Encontrar grupos de pessoas em seu nicho significa que elas têm maior probabilidade de curtir e comprar seu produto.</target>
+      </trans-unit>
+      <trans-unit id="5582-0">
+        <source xml:lang="en-US">Pound Sterling</source>
+        <target xml:lang="pt-BR">Libra esterlina</target>
+      </trans-unit>
+      <trans-unit id="5583-0">
+        <source xml:lang="en-US">Wallet update was not successful!</source>
+        <target xml:lang="pt-BR">A atualização da carteira não foi realizada.</target>
+      </trans-unit>
+      <trans-unit id="5584-0">
+        <source xml:lang="en-US">Your balance is {balance}</source>
+        <target xml:lang="pt-BR">Seu saldo é de {balance}</target>
+      </trans-unit>
+      <trans-unit id="5589-0">
+        <source xml:lang="en-US">Card type is not supported to be stored!</source>
+        <target xml:lang="pt-BR">Tipo de cartão não pode ser armazenado.</target>
+      </trans-unit>
+      <trans-unit id="5590-0">
+        <source xml:lang="en-US">Generated:</source>
+        <target xml:lang="pt-BR">Gerado:</target>
+      </trans-unit>
+      <trans-unit id="5591-0">
+        <source xml:lang="en-US">Invoice details you can see in the invoice attachment. The invoice attachment is an integral part of this invoice.</source>
+        <target xml:lang="pt-BR">Detalhes da fatura podem ser visualizados no anexo. O anexo é parte integrante desta fatura.</target>
+      </trans-unit>
+      <trans-unit id="5593-0">
+        <source xml:lang="en-US">Back to store settings</source>
+        <target xml:lang="pt-BR">Voltar para as configurações da loja</target>
+      </trans-unit>
+      <trans-unit id="5594-0">
+        <source xml:lang="en-US">Same as shipping address</source>
+        <target xml:lang="pt-BR">O mesmo que o endereço de envio</target>
+      </trans-unit>
+      <trans-unit id="5595-0">
+        <source xml:lang="en-US">Refunded</source>
+        <target xml:lang="pt-BR">Reembolsado</target>
+      </trans-unit>
+      <trans-unit id="5596-0">
+        <source xml:lang="en-US">Invoice #</source>
+        <target xml:lang="pt-BR">Fatura #</target>
+      </trans-unit>
+      <trans-unit id="5597-0">
+        <source xml:lang="en-US">Go to section</source>
+        <target xml:lang="pt-BR">Ir para a seção</target>
+      </trans-unit>
+      <trans-unit id="5598-0">
+        <source xml:lang="en-US">Wallet refund was not successful!</source>
+        <target xml:lang="pt-BR">O reembolso na carteira não foi realizado.</target>
+      </trans-unit>
+      <trans-unit id="5599-0">
+        <source xml:lang="en-US">Payment method was not found.</source>
+        <target xml:lang="pt-BR">A forma de pagamento não foi encontrada.</target>
+      </trans-unit>
+      <trans-unit id="5600-0">
+        <source xml:lang="en-US">This transaction can be processed only manually!</source>
+        <target xml:lang="pt-BR">Esta transação só pode ser processada manualmente.</target>
+      </trans-unit>
+      <trans-unit id="5603-0">
+        <source xml:lang="en-US">Canceled</source>
+        <target xml:lang="pt-BR">Cancelado</target>
+      </trans-unit>
+      <trans-unit id="5604-0">
+        <source xml:lang="en-US">No data available in table</source>
+        <target xml:lang="pt-BR">Nenhum dado disponível na tabela</target>
+      </trans-unit>
+      <trans-unit id="5606-0">
+        <source xml:lang="en-US">Our product prices can change depending on where the order is fulfilled and which currency you use to pay for it. For example, if you order a t-shirt that we only fulfill in the US and you pay for it in EUR, the price you pay would be our USD price converted to EUR.</source>
+        <target xml:lang="pt-BR">Nossos preços podem mudar dependendo de onde o pedido for processado e de qual moeda você utilizar para o pagamento. Por exemplo, se você pedir uma t-shirt que só processamos nos EUA e você pagar em EUR, o preço a ser pago será o valor em USD convertido em EUR.</target>
+      </trans-unit>
+      <trans-unit id="5609-0">
+        <source xml:lang="en-US">Wallet auto recharge failed!</source>
+        <target xml:lang="pt-BR">Recarga automática da carteira falhou.</target>
+      </trans-unit>
+      <trans-unit id="5611-0">
+        <source xml:lang="en-US">This won't change the currency of your products on your storefront. You can do that by going to your ecommerce platform&amp;apos;s settings.</source>
+        <target xml:lang="pt-BR">Isso não mudará a moeda de seus produtos na loja. Isso pode ser feito nas configurações de sua plataforma de ecommerce.</target>
+      </trans-unit>
+      <trans-unit id="5612-0">
+        <source xml:lang="en-US">Chargeback transaction</source>
+        <target xml:lang="pt-BR">Transação de estorno</target>
+      </trans-unit>
+      <trans-unit id="5613-0">
+        <source xml:lang="en-US">Get an invoice</source>
+        <target xml:lang="pt-BR">Obter uma fatura</target>
+      </trans-unit>
+      <trans-unit id="5614-0">
+        <source xml:lang="en-US">Design Services</source>
+        <target xml:lang="pt-BR">Serviços de design</target>
+      </trans-unit>
+      <trans-unit id="5616-0">
+        <source xml:lang="en-US">Certificate must be added.</source>
+        <target xml:lang="pt-BR">O certificado deve ser incluído.</target>
+      </trans-unit>
+      <trans-unit id="5618-0">
+        <source xml:lang="en-US">Choose store</source>
+        <target xml:lang="pt-BR">Escolher a loja</target>
+      </trans-unit>
+      <trans-unit id="5619-0">
+        <source xml:lang="en-US">Payment method successfully removed.</source>
+        <target xml:lang="pt-BR">Forma de pagamento removida com sucesso.</target>
+      </trans-unit>
+      <trans-unit id="5620-0">
+        <source xml:lang="en-US">Declined</source>
+        <target xml:lang="pt-BR">Não autorizado</target>
+      </trans-unit>
+      <trans-unit id="5621-0">
+        <source xml:lang="en-US">Update required</source>
+        <target xml:lang="pt-BR">Atualização necessária</target>
+      </trans-unit>
+      <trans-unit id="5622-0">
+        <source xml:lang="en-US">The shipment is not a return shipment.</source>
+        <target xml:lang="pt-BR">O envio não é de devolução.</target>
+      </trans-unit>
+      <trans-unit id="5623-0">
+        <source xml:lang="en-US">For Visa, Mastercard, and Discover cards it's a 3-digit number on the back of the card. American Express cards have a 4-digit number on the front.</source>
+        <target xml:lang="pt-BR">Nos cartões Visa, Mastercard e Discover, é o código de 3 dígitos na parte de trás do cartão. Os cartões American Express possuem um código de 4 dígitos localizado na frente do cartão.</target>
+      </trans-unit>
+      <trans-unit id="5624-0">
+        <source xml:lang="en-US">Please enter your business registration number. Depending on where you're registered, this can be a FEIN (USA), BN (Canada), ABN (Australia), or Registration Number (Europe/Worldwide).</source>
+        <target xml:lang="pt-BR">Insira o número de cadastro de sua empresa. Dependendo de onde você está cadastrado, pode ser o FEIN (EUA), BN (Canadá), ABN (Austrália) ou número de cadastro (Europa/Mundo).</target>
+      </trans-unit>
+      <trans-unit id="5625-0">
+        <source xml:lang="en-US">Vendor's name:</source>
+        <target xml:lang="pt-BR">Nome do fornecedor:</target>
+      </trans-unit>
+      <trans-unit id="5626-0">
+        <source xml:lang="en-US">Pack-In Keeping</source>
+        <target xml:lang="pt-BR">Manutenção Pack-In</target>
+      </trans-unit>
+      <trans-unit id="5627-0">
+        <source xml:lang="en-US">Merchant</source>
+        <target xml:lang="pt-BR">Vendedor</target>
+      </trans-unit>
+      <trans-unit id="5628-0">
+        <source xml:lang="en-US">ABN certificate</source>
+        <target xml:lang="pt-BR">Certificado ABN</target>
+      </trans-unit>
+      <trans-unit id="5630-0">
+        <source xml:lang="en-US">Please double check</source>
+        <target xml:lang="pt-BR">Verifique</target>
+      </trans-unit>
+      <trans-unit id="5631-0">
+        <source xml:lang="en-US">Offer free shipping</source>
+        <target xml:lang="pt-BR">Oferecer frete grátis</target>
+      </trans-unit>
+      <trans-unit id="5633-0">
+        <source xml:lang="en-US">Unconfirmed payments</source>
+        <target xml:lang="pt-BR">Pagamentos não confirmados</target>
+      </trans-unit>
+      <trans-unit id="5634-0">
+        <source xml:lang="en-US">Add your information to the form, then print and sign it. Then, scan it and upload it here.</source>
+        <target xml:lang="pt-BR">Preencha suas informações no formulário, imprima e assine. Em seguida, digitalize e faça o upload aqui.</target>
+      </trans-unit>
+      <trans-unit id="5635-0">
+        <source xml:lang="en-US">Details</source>
+        <target xml:lang="pt-BR">Detalhes</target>
+      </trans-unit>
+      <trans-unit id="5637-0">
+        <source xml:lang="en-US">Legal info successfully saved</source>
+        <target xml:lang="pt-BR">Informações legais salvas com sucesso</target>
+      </trans-unit>
+      <trans-unit id="5638-0">
+        <source xml:lang="en-US">Add certificate</source>
+        <target xml:lang="pt-BR">Incluir certificado</target>
+      </trans-unit>
+      <trans-unit id="5639-0">
+        <source xml:lang="en-US">Ecommerce Photography Services</source>
+        <target xml:lang="pt-BR">Serviços de fotografia de ecommerce</target>
+      </trans-unit>
+      <trans-unit id="5640-0">
+        <source xml:lang="en-US">Remove</source>
+        <target xml:lang="pt-BR">Remover</target>
+      </trans-unit>
+      <trans-unit id="5641-0">
+        <source xml:lang="en-US">Download invoices</source>
+        <target xml:lang="pt-BR">Fazer o download de faturas</target>
+      </trans-unit>
+      <trans-unit id="5642-0">
+        <source xml:lang="en-US">Old Method</source>
+        <target xml:lang="pt-BR">Método antigo</target>
+      </trans-unit>
+      <trans-unit id="5643-0">
+        <source xml:lang="en-US">Credit Card</source>
+        <target xml:lang="pt-BR">Cartão de crédito</target>
+      </trans-unit>
+      <trans-unit id="5644-0">
+        <source xml:lang="en-US">Click the button below. A pop-up window will appear for you to authorize your Sofort payment.</source>
+        <target xml:lang="pt-BR">Clique no botão abaixo. Uma janela pop-up aparecerá para que você autorize o pagamento no Sofort.</target>
+      </trans-unit>
+      <trans-unit id="5645-0">
+        <source xml:lang="en-US">Accumulated sales</source>
+        <target xml:lang="pt-BR">Vendas acumuladas</target>
+      </trans-unit>
+      <trans-unit id="5646-0">
+        <source xml:lang="en-US">We accept:</source>
+        <target xml:lang="pt-BR">Aceitamos:</target>
+      </trans-unit>
+      <trans-unit id="5647-0">
+        <source xml:lang="en-US">White-Label Support</source>
+        <target xml:lang="pt-BR">Suporte White-Label</target>
+      </trans-unit>
+      <trans-unit id="5650-0">
+        <source xml:lang="en-US">{orderLimit} sample orders ({itemLimit} items each) at 20% off + free shipping</source>
+        <target xml:lang="pt-BR">{orderLimit} pedidos de amostra ({itemLimit}itens cada) com 20% de desconto + frete grátis</target>
+      </trans-unit>
+      <trans-unit id="5652-0">
+        <source xml:lang="en-US">Payment {amount} was successful!</source>
+        <target xml:lang="pt-BR">O pagamento {amount} foi realizado!</target>
+      </trans-unit>
+      <trans-unit id="5653-0">
+        <source xml:lang="en-US">Refund to</source>
+        <target xml:lang="pt-BR">Reembolsar para</target>
+      </trans-unit>
+      <trans-unit id="5654-0">
+        <source xml:lang="en-US">Generate $300+ a month for {orderLimit} sample orders ({itemLimit} items per order)</source>
+        <target xml:lang="pt-BR">Gerar mais de US$ 300 por mês para {orderLimit} pedidos de amostra ({itemLimit} itens por pedido)</target>
+      </trans-unit>
+      <trans-unit id="5656-0">
+        <source xml:lang="en-US">Confirm the charge using PostPay</source>
+        <target xml:lang="pt-BR">Confirmar a cobrança usando o PostPay</target>
+      </trans-unit>
+      <trans-unit id="5657-0">
+        <source xml:lang="en-US">{amount} to reach the goal</source>
+        <target xml:lang="pt-BR">{amount} para atingir a meta</target>
+      </trans-unit>
+      <trans-unit id="5658-0">
+        <source xml:lang="en-US">Your most recent Deposit to Wallet will be refunded to its respective payment method.</source>
+        <target xml:lang="pt-BR">O último Depósito na Carteira será reembolsado de acordo com a forma de pagamento.</target>
+      </trans-unit>
+      <trans-unit id="5659-0">
+        <source xml:lang="en-US">Card Verification Value (CVV)</source>
+        <target xml:lang="pt-BR">Código de Verificação do Cartão (CVV)</target>
+      </trans-unit>
+      <trans-unit id="5660-0">
+        <source xml:lang="en-US">This will set your discount for the next month. Then, every new order you make the following month, we will automatically apply the appropriate discount to the order's total value.</source>
+        <target xml:lang="pt-BR">Isso definirá o desconto para o próximo mês. Em seguida, a cada novo pedido feito no mês seguinte, aplicaremos automaticamente o desconto apropriado ao valor total do pedido.</target>
+      </trans-unit>
+      <trans-unit id="5662-0">
+        <source xml:lang="en-US">Bulk discounts</source>
+        <target xml:lang="pt-BR">Descontos por atacado</target>
+      </trans-unit>
+      <trans-unit id="5663-0">
+        <source xml:lang="en-US">Due to an error in transaction, we were able to issue only a partial refund for the amount of {amount}.</source>
+        <target xml:lang="pt-BR">Devido a um erro na transação, conseguimos emitir apenas um reembolso parcial no valor de {amount}.</target>
+      </trans-unit>
+      <trans-unit id="5664-0">
+        <source xml:lang="en-US">Administrative Fee</source>
+        <target xml:lang="pt-BR">Taxa administrativa</target>
+      </trans-unit>
+      <trans-unit id="5665-0">
+        <source xml:lang="en-US">Euro</source>
+        <target xml:lang="pt-BR">Euro</target>
+      </trans-unit>
+      <trans-unit id="5667-0">
+        <source xml:lang="en-US">People want to be sure that they aren't being scammed. A good returns policy means that they can be more confident in you and your product.</source>
+        <target xml:lang="pt-BR">As pessoas querem ter certeza de que não estão sendo enganadas. Uma boa política de devolução significa que elas podem confiar em você e no seu produto.</target>
+      </trans-unit>
+      <trans-unit id="5668-0">
+        <source xml:lang="en-US">Goal reached!</source>
+        <target xml:lang="pt-BR">Meta atingida!</target>
+      </trans-unit>
+      <trans-unit id="5669-0">
+        <source xml:lang="en-US">No billing method changes yet.</source>
+        <target xml:lang="pt-BR">Nenhuma alteração no método de cobrança até o momento.</target>
+      </trans-unit>
+      <trans-unit id="5670-0">
+        <source xml:lang="en-US">Printful is obligated by law to charge GST (goods and service tax) on orders going to Australia and New Zealand. However, if you have an ABN (Australian Business Number), or an NZBN (New Zealand Business number), and a GST registration certificate, you can submit them here and become exempt from our GST charge. Read more about that {linkBegin}here{linkEnd}.</source>
+        <target xml:lang="pt-BR">A Printful é obrigada por lei a cobrar o GST (imposto sobre bens e serviços) sobre pedidos que vão para a Austrália e a Nova Zelândia. No entanto, se você tiver um ABN (cadastro empresarial australiano) ou NZBN (cadastro empresarial da Nova Zelândia) e um certificado de cadastro GST, você pode enviá-los clicando aqui e ficar isento de nossa taxa GST. Leia mais sobre isso {linkBegin}aqui{linkEnd}.</target>
+      </trans-unit>
+      <trans-unit id="5671-0">
+        <source xml:lang="en-US">Invalid transaction payment type</source>
+        <target xml:lang="pt-BR">Tipo de pagamento inválido para a transação</target>
+      </trans-unit>
+      <trans-unit id="5673-0">
+        <source xml:lang="en-US">Withdrawal from Wallet</source>
+        <target xml:lang="pt-BR">Retirada da Carteira</target>
+      </trans-unit>
+      <trans-unit id="5674-0">
+        <source xml:lang="en-US">Billing method successfully added!</source>
+        <target xml:lang="pt-BR">Método de cobrança incluído com sucesso!</target>
+      </trans-unit>
+      <trans-unit id="5675-0">
+        <source xml:lang="en-US">GST</source>
+        <target xml:lang="pt-BR">GST</target>
+      </trans-unit>
+      <trans-unit id="5676-0">
+        <source xml:lang="en-US">error</source>
+        <target xml:lang="pt-BR">erro</target>
+      </trans-unit>
+      <trans-unit id="5677-0">
+        <source xml:lang="en-US">Period to is required</source>
+        <target xml:lang="pt-BR">O período até é necessário</target>
+      </trans-unit>
+      <trans-unit id="5678-0">
+        <source xml:lang="en-US"><![CDATA[Looks like you’ve recently made a Deposit to Wallet. This transaction needs to be fully completed before you can make a withdrawal. The process might take a while - <b> please try again in 3 hours</b>]]></source>
+        <target xml:lang="pt-BR"><![CDATA[Parece que você fez um Depósito na Carteira. Essa transação precisa ser concluída antes de fazer uma retirada. O processo pode demorar um pouco <b> Tente novamente em 3 horass</b>]]></target>
+      </trans-unit>
+      <trans-unit id="5679-0">
+        <source xml:lang="en-US">Photography Services</source>
+        <target xml:lang="pt-BR">Serviços de fotografia</target>
+      </trans-unit>
+      <trans-unit id="5680-0">
+        <source xml:lang="en-US">Sample order limit exceeded!</source>
+        <target xml:lang="pt-BR">Limite da pedidos de amostra excedido.</target>
+      </trans-unit>
+      <trans-unit id="5681-0">
+        <source xml:lang="en-US">Completed</source>
+        <target xml:lang="pt-BR">Concluído</target>
+      </trans-unit>
+      <trans-unit id="5682-0">
+        <source xml:lang="en-US">Insufficient funds in the Printful Wallet!</source>
+        <target xml:lang="pt-BR">Saldo insuficiente na Carteira Printful.</target>
+      </trans-unit>
+      <trans-unit id="5683-0">
+        <source xml:lang="en-US">Monthly storage fee</source>
+        <target xml:lang="pt-BR">Taxa de armazenamento mensal</target>
+      </trans-unit>
+      <trans-unit id="5684-0">
+        <source xml:lang="en-US">Payment expired. Please contact our support team for next steps.</source>
+        <target xml:lang="pt-BR">O pagamento expirou. Entre em contato com nossa equipe de suporte para os próximos passos.</target>
+      </trans-unit>
+      <trans-unit id="5685-0">
+        <source xml:lang="en-US">PayPal account</source>
+        <target xml:lang="pt-BR">Conta PayPal</target>
+      </trans-unit>
+      <trans-unit id="5686-0">
+        <source xml:lang="en-US">Add VAT ID</source>
+        <target xml:lang="pt-BR">Incluir identificação VAT</target>
+      </trans-unit>
+      <trans-unit id="5687-0">
+        <source xml:lang="en-US">Your Sofort payment has been processed. Close this window to return to Printful.</source>
+        <target xml:lang="pt-BR">O pagamento no Sofort foi processado. Feche esta janela para voltar para a Printful.</target>
+      </trans-unit>
+      <trans-unit id="5689-0">
+        <source xml:lang="en-US"><![CDATA[Each currency on Printful has its own Wallet, so please <b>add funds</b> to your {currency} Wallet to pay for this order. You can do this by going to the Billing section. This order will be saved as a draft.]]></source>
+        <target xml:lang="pt-BR"><![CDATA[Cada moeda na Printful tem sua própria Carteira, então <b>adicione recursos</b> à sua {currency} Carteira para pagar por esse pedido. Isso pode ser feito na seção de Cobranças. Este pedido ficará salvo como rascunho.]]></target>
+      </trans-unit>
+      <trans-unit id="5690-0">
+        <source xml:lang="en-US"><![CDATA[Each currency on Printful has its own Wallet, so please <b>add funds</b> to your {currency} Wallet to pay for this service. You can do this by going to the Billing section.]]></source>
+        <target xml:lang="pt-BR"><![CDATA[Cada moeda na Printful tem sua própria Carteira, então <b>adicione recursos</b> à sua {currency} Carteira para pagar por esse serviço. Isso pode ser feito na seção de Cobranças.]]></target>
+      </trans-unit>
+      <trans-unit id="5691-0">
+        <source xml:lang="en-US">Total withdrawals from wallet ({currencySymbol}):</source>
+        <target xml:lang="pt-BR">Total de retiradas da carteira ({currencySymbol}):</target>
+      </trans-unit>
+      <trans-unit id="5692-0">
+        <source xml:lang="en-US">Always use account primary billing method</source>
+        <target xml:lang="pt-BR">Sempre usar o método de cobrança principal da conta</target>
+      </trans-unit>
+      <trans-unit id="5693-0">
+        <source xml:lang="en-US">Please allow up to 3 business days for the funds to appear in your account.</source>
+        <target xml:lang="pt-BR">Aguarde até 3 dias úteis para que os recursos apareçam na sua conta.</target>
+      </trans-unit>
+      <trans-unit id="5694-0">
+        <source xml:lang="en-US">Failed</source>
+        <target xml:lang="pt-BR">Pedido com erro</target>
+      </trans-unit>
+      <trans-unit id="5695-0">
+        <source xml:lang="en-US">Printful Wallet</source>
+        <target xml:lang="pt-BR">Carteira Printful</target>
+      </trans-unit>
+      <trans-unit id="5696-0">
+        <source xml:lang="en-US">finished</source>
+        <target xml:lang="pt-BR">finalizado</target>
+      </trans-unit>
+      <trans-unit id="5698-0">
+        <source xml:lang="en-US">This is a security code that's printed on your credit card.</source>
+        <target xml:lang="pt-BR">Este é um código de segurança impresso no seu cartão de crédito.</target>
+      </trans-unit>
+      <trans-unit id="5700-0">
+        <source xml:lang="en-US">Japanese yen</source>
+        <target xml:lang="pt-BR">Iene japonês</target>
+      </trans-unit>
+      <trans-unit id="5701-0">
+        <source xml:lang="en-US">GST ID</source>
+        <target xml:lang="pt-BR">Identificação GST</target>
+      </trans-unit>
+      <trans-unit id="5702-0">
+        <source xml:lang="en-US">Warehousing Shipping</source>
+        <target xml:lang="pt-BR">Envio de armazenagem</target>
+      </trans-unit>
+      <trans-unit id="5703-0">
+        <source xml:lang="en-US">Printful Design Services</source>
+        <target xml:lang="pt-BR">Serviços de Design da Printful</target>
+      </trans-unit>
+      <trans-unit id="5704-0">
+        <source xml:lang="en-US">Printful Video Services</source>
+        <target xml:lang="pt-BR">Serviços de vídeo da Printful</target>
+      </trans-unit>
+      <trans-unit id="5705-0">
+        <source xml:lang="en-US">Printful Photography Services</source>
+        <target xml:lang="pt-BR">Serviços de fotografia da Printful</target>
+      </trans-unit>
+      <trans-unit id="5706-0">
+        <source xml:lang="en-US">In {month}, you can make:</source>
+        <target xml:lang="pt-BR">Em {month}, você pode:</target>
+      </trans-unit>
+      <trans-unit id="5707-0">
+        <source xml:lang="en-US">Multicurrency</source>
+        <target xml:lang="pt-BR">Multimoeda</target>
+      </trans-unit>
+      <trans-unit id="5708-0">
+        <source xml:lang="en-US">New card</source>
+        <target xml:lang="pt-BR">Novo cartão</target>
+      </trans-unit>
+      <trans-unit id="5709-0">
+        <source xml:lang="en-US">Back to warehouse</source>
+        <target xml:lang="pt-BR">Voltar ao armazém</target>
+      </trans-unit>
+      <trans-unit id="5710-0">
+        <source xml:lang="en-US">Billing Methods</source>
+        <target xml:lang="pt-BR">Métodos de cobrança</target>
+      </trans-unit>
+      <trans-unit id="5712-0">
+        <source xml:lang="en-US">Use my legal info</source>
+        <target xml:lang="pt-BR">Usar minhas informações legais</target>
+      </trans-unit>
+      <trans-unit id="5714-0">
+        <source xml:lang="en-US">Promote to Facebook Groups</source>
+        <target xml:lang="pt-BR">Promover para grupos do Facebook</target>
+      </trans-unit>
+      <trans-unit id="5716-0">
+        <source xml:lang="en-US">No longer valid</source>
+        <target xml:lang="pt-BR">Não é mais válido</target>
+      </trans-unit>
+      <trans-unit id="12867-0">
+        <source xml:lang="en-US">Withdraw</source>
+        <target xml:lang="pt-BR">Retirar</target>
+      </trans-unit>
+      <trans-unit id="12872-0">
+        <source xml:lang="en-US">No legal info changes yet</source>
+        <target xml:lang="pt-BR">Nenhuma alteração nas informações legais até o momento</target>
+      </trans-unit>
+      <trans-unit id="12873-0">
+        <source xml:lang="en-US">Legal info changes</source>
+        <target xml:lang="pt-BR">Alterações nas informações legais</target>
+      </trans-unit>
+      <trans-unit id="13529-0">
+        <source xml:lang="en-US">Choose period</source>
+        <target xml:lang="pt-BR">Escolher o período</target>
+      </trans-unit>
+      <trans-unit id="13532-0">
+        <source xml:lang="en-US">re-Generate</source>
+        <target xml:lang="pt-BR">Regenerar</target>
+      </trans-unit>
+      <trans-unit id="13533-0">
+        <source xml:lang="en-US">expires after {amountOfDays} days</source>
+        <target xml:lang="pt-BR">expira após {amountOfDays} dias</target>
+      </trans-unit>
+      <trans-unit id="13534-0">
+        <source xml:lang="en-US">Previously processed requests</source>
+        <target xml:lang="pt-BR">Pedidos processados anteriormente</target>
+      </trans-unit>
+      <trans-unit id="13535-0">
+        <source xml:lang="en-US">Valid</source>
+        <target xml:lang="pt-BR">Válido</target>
+      </trans-unit>
+      <trans-unit id="13536-0">
+        <source xml:lang="en-US">This month is currently processing or has already been processed. Look for a link in your inbox or download below.</source>
+        <target xml:lang="pt-BR">Este mês está em processamento ou já foi processado. Procure por um link na sua caixa de entrada ou faça o download abaixo.</target>
+      </trans-unit>
+      <trans-unit id="13537-0">
+        <source xml:lang="en-US">Here you can add or update your legal information. We will use these details on all your invoices that you can find under {linkStart}Billing → Payments.{linkEnd}</source>
+        <target xml:lang="pt-BR">Aqui você pode incluir ou atualizar suas informações legais. Esses detalhes serão usados em todas as suas faturas, que podem ser encontradas em {linkStart}Cobranças → Pagamentos.{linkEnd}</target>
+      </trans-unit>
+      <trans-unit id="13538-0">
+        <source xml:lang="en-US">All certificates</source>
+        <target xml:lang="pt-BR">Todos os certificados</target>
+      </trans-unit>
+      <trans-unit id="13539-0">
+        <source xml:lang="en-US">You'll get a downloadable link in your inbox. This can take up to several hours while we do the magic and collect the data you need.</source>
+        <target xml:lang="pt-BR">Você receberá um link para download em sua caixa de entrada. Pode demorar algumas horas enquanto a mágica acontece e coletamos os dados de que você precisa.</target>
+      </trans-unit>
+      <trans-unit id="13541-0">
+        <source xml:lang="en-US">Download (*.zip)</source>
+        <target xml:lang="pt-BR">Download (*.zip)</target>
+      </trans-unit>
+      <trans-unit id="13615-0">
+        <source xml:lang="en-US">The coupon code is invalid because your order total is too low. Add more items to use your coupon code!</source>
+        <target xml:lang="pt-BR">O código do cupom é inválido porque o total de seu pedido é muito baixo. Adicione mais itens para usar o código de seu cupom!</target>
+      </trans-unit>
+      <trans-unit id="13632-0">
+        <source xml:lang="en-US"><![CDATA[Coupons are valid for registered customers only. <a href="{signin}">Sign in</a> or <a href="{signup}">sign up</a> now.]]></source>
+        <target xml:lang="pt-BR"><![CDATA[Os cupons são válidos apenas para clientes cadastrados. <a href="{signin}">Entre</a> ou <a href="{signup}">cadastre-se</a> agora.]]></target>
+      </trans-unit>
+      <trans-unit id="13633-0">
+        <source xml:lang="en-US">Coupon code isn’t valid.</source>
+        <target xml:lang="pt-BR">O código do cupom não é válido.</target>
+      </trans-unit>
+      <trans-unit id="13634-0">
+        <source xml:lang="en-US">Looks like you've used this coupon code already!</source>
+        <target xml:lang="pt-BR">Parece que você já usou esse código de cupom.</target>
+      </trans-unit>
+      <trans-unit id="13734-0">
+        <source xml:lang="en-US">Launch price ends in</source>
+        <target xml:lang="pt-BR">O preço de lançamento finaliza em</target>
+      </trans-unit>
+      <trans-unit id="13885-0">
+        <source xml:lang="en-US">Printful ID</source>
+        <target xml:lang="pt-BR">Identificação Printful</target>
+      </trans-unit>
+      <trans-unit id="14077-0">
+        <source xml:lang="en-US">Accumulated sales this month</source>
+        <target xml:lang="pt-BR">Vendas acumuladas neste mês</target>
+      </trans-unit>
+      <trans-unit id="14079-0">
+        <source xml:lang="en-US">off</source>
+        <target xml:lang="pt-BR">desativado</target>
+        <note>% off - discount</note>
+      </trans-unit>
+      <trans-unit id="14080-0">
+        <source xml:lang="en-US">Your discount forecast</source>
+        <target xml:lang="pt-BR">Sua previsão de desconto</target>
+      </trans-unit>
+      <trans-unit id="14083-0">
+        <source xml:lang="en-US">Bronze</source>
+        <target xml:lang="pt-BR">Bronze</target>
+      </trans-unit>
+      <trans-unit id="14084-0">
+        <source xml:lang="en-US">Contact sales team</source>
+        <target xml:lang="pt-BR">Entre em contato com a equipe de vendas</target>
+      </trans-unit>
+      <trans-unit id="14085-0">
+        <source xml:lang="en-US">The more accumulated sales you get this month, the bigger your discount next month.</source>
+        <target xml:lang="pt-BR">Quanto mais vendas acumuladas você tiver neste mês, maior o seu desconto no próximo mês.</target>
+      </trans-unit>
+      <trans-unit id="14086-0">
+        <source xml:lang="en-US">Platinum</source>
+        <target xml:lang="pt-BR">Platina</target>
+      </trans-unit>
+      <trans-unit id="14089-0">
+        <source xml:lang="en-US">Generate more than 20K in accumulated sales each month?</source>
+        <target xml:lang="pt-BR">Gerar mais de 20 mil em vendas acumuladas todo mês?</target>
+      </trans-unit>
+      <trans-unit id="14091-0">
+        <source xml:lang="en-US">items per order</source>
+        <target xml:lang="pt-BR">itens por pedido</target>
+      </trans-unit>
+      <trans-unit id="14092-0">
+        <source xml:lang="en-US">After you hit $1k in accumulated sales in one month, you're eligible for a discount in the following one. On the 1st of each month, we'll calculate your accumulated sales with this formula:</source>
+        <target xml:lang="pt-BR">Após atingir US$ 1 mil em vendas acumuladas em um mês, você tem direito a um desconto no mês seguinte. No primeiro dia de cada mês, calcularemos suas vendas acumuladas de acordo com a seguinte fórmula:</target>
+      </trans-unit>
+      <trans-unit id="14093-0">
+        <source xml:lang="en-US">Executive</source>
+        <target xml:lang="pt-BR">Executivo</target>
+      </trans-unit>
+      <trans-unit id="14094-0">
+        <source xml:lang="en-US">Special pricing applied</source>
+        <target xml:lang="pt-BR">Preços especiais aplicados</target>
+      </trans-unit>
+      <trans-unit id="14095-0">
+        <source xml:lang="en-US">Executive tier</source>
+        <target xml:lang="pt-BR">Nível executivo</target>
+      </trans-unit>
+      <trans-unit id="14144-0">
+        <source xml:lang="en-US">Pay securely now</source>
+        <target xml:lang="pt-BR">Pagar com segurança agora</target>
+      </trans-unit>
+      <trans-unit id="14219-0">
+        <source xml:lang="en-US">Your payment is being processed. This can take up to 5 days.</source>
+        <target xml:lang="pt-BR">Seu pagamento está sendo processado. Isso pode levar até 5 dias.</target>
+      </trans-unit>
+      <trans-unit id="14220-0">
+        <source xml:lang="en-US">Pending (ACH)</source>
+        <target xml:lang="pt-BR">Pendente (ACH)</target>
+      </trans-unit>
+      <trans-unit id="14226-0">
+        <source xml:lang="en-US">New method</source>
+        <target xml:lang="pt-BR">Novo método</target>
+      </trans-unit>
+      <trans-unit id="14228-0">
+        <source xml:lang="en-US">ACH</source>
+        <target xml:lang="pt-BR">ACH</target>
+      </trans-unit>
+      <trans-unit id="14231-0">
+        <source xml:lang="en-US">New Paypal</source>
+        <target xml:lang="pt-BR">Novo PayPal</target>
+      </trans-unit>
+      <trans-unit id="14232-0">
+        <source xml:lang="en-US">New ACH</source>
+        <target xml:lang="pt-BR">Novo ACH</target>
+      </trans-unit>
+      <trans-unit id="14275-0">
+        <source xml:lang="en-US">VAT:</source>
+        <target xml:lang="pt-BR">VAT:</target>
+      </trans-unit>
+      <trans-unit id="14579-0">
+        <source xml:lang="en-US">To change your store’s currency and billing method which are used for all transactions with Printful, go to Store billing settings.</source>
+        <target xml:lang="pt-BR">Para alterar a moeda e o método de cobrança que sua loja utiliza para todas as transações com a Printful, vá para as configurações de cobrança da loja.</target>
+      </trans-unit>
+      <trans-unit id="14580-0">
+        <source xml:lang="en-US">Most used Wallets</source>
+        <target xml:lang="pt-BR">Carteiras mais utilizadas</target>
+      </trans-unit>
+      <trans-unit id="14582-0">
+        <source xml:lang="en-US">Change billing settings</source>
+        <target xml:lang="pt-BR">Alterar as configurações de cobrança</target>
+      </trans-unit>
+      <trans-unit id="14583-0">
+        <source xml:lang="en-US">Store billing settings</source>
+        <target xml:lang="pt-BR">Configurações de cobrança da loja</target>
+      </trans-unit>
+      <trans-unit id="14584-0">
+        <source xml:lang="en-US">Other Wallets</source>
+        <target xml:lang="pt-BR">Outras Carteiras</target>
+      </trans-unit>
+      <trans-unit id="14600-0">
+        <source xml:lang="en-US">Download VAT reports</source>
+        <target xml:lang="pt-BR">Fazer o download de relatórios VAT</target>
+      </trans-unit>
+      <trans-unit id="18930-0">
+        <source xml:lang="en-US">Coupon discount</source>
+        <target xml:lang="pt-BR">Desconto do cupom</target>
+      </trans-unit>
+      <trans-unit id="18946-0">
+        <source xml:lang="en-US">You saved</source>
+        <target xml:lang="pt-BR">Você economizou</target>
+      </trans-unit>
+      <trans-unit id="18948-0">
+        <source xml:lang="en-US">TAX</source>
+        <target xml:lang="pt-BR">IMPOSTOS</target>
+      </trans-unit>
+      <trans-unit id="18951-0">
+        <source xml:lang="en-US">Order breakdown</source>
+        <target xml:lang="pt-BR">Detalhes do pedido</target>
+      </trans-unit>
+      <trans-unit id="19284-0">
+        <source xml:lang="en-US">{thousands}k</source>
+        <target xml:lang="pt-BR">{thousands}k</target>
+        <note>k - thousand</note>
+      </trans-unit>
+      <trans-unit id="19748-0">
+        <source xml:lang="en-US">You’ll see the invoice once the shipment is delivered. Orders with multiple shipments have multiple invoices.</source>
+        <target xml:lang="pt-BR">A fatura poderá ser visualizada quando o envio for entregue. Pedidos com múltiplos envios têm faturas múltiplas.</target>
+      </trans-unit>
+      <trans-unit id="19753-0">
+        <source xml:lang="en-US">Accumulated sales = total order sum - discounts - shipping - tax/VAT + digitization + W&amp;F charges on orders + services (design, photo, video, store setup, etc.)</source>
+        <target xml:lang="pt-BR">Vendas acumuladas = soma total do pedido - descontos - envio - impostos/VAT + digitalização + taxas de armazenagem e processamento de pedidos + serviços (design, foto, vídeo, configuração da loja, etc.)</target>
+      </trans-unit>
+      <trans-unit id="19937-0">
+        <source xml:lang="en-US">Once you generate more than 20K in accumulated sales, you can discuss special pricing with our sales team!</source>
+        <target xml:lang="pt-BR">Quando gerar mais de 20 mil em vendas acumuladas, você poderá falar sobre preços especiais com nossa equipe de vendas!</target>
+      </trans-unit>
+      <trans-unit id="19938-0">
+        <source xml:lang="en-US">Want to discuss custom partnership?</source>
+        <target xml:lang="pt-BR">Quer falar sobre uma parceria personalizada?</target>
+      </trans-unit>
+      <trans-unit id="20394-0">
+        <source xml:lang="en-US">If you have a different tax exemption certificate, you can email us at {emailLinkStart}taxexemptions@printful.com.{emailLinkEnd} You can find information about tax exemption certificates {linkStart}here.{linkEnd}</source>
+        <target xml:lang="pt-BR">Se você tiver um certificado de isenção fiscal diferente, entre em contato conosco pelo e-mail {emailLinkStart}taxexemptions@printful.com {emailLinkEnd}. Encontre informações sobre certificados de isenção fiscal {linkStart}aqui.{linkEnd}</target>
+      </trans-unit>
+      <trans-unit id="20395-0">
+        <source xml:lang="en-US">Declined on {date}. Reason: {reason}</source>
+        <target xml:lang="pt-BR">Não autorizado em {date}. Motivo: {reason}</target>
+      </trans-unit>
+      <trans-unit id="20396-0">
+        <source xml:lang="en-US">Seller's permit ID:</source>
+        <target xml:lang="pt-BR">Identificação da licença do vendedor:</target>
+      </trans-unit>
+      <trans-unit id="20397-0">
+        <source xml:lang="en-US">View certificate</source>
+        <target xml:lang="pt-BR">Visualizar certificado</target>
+      </trans-unit>
+      <trans-unit id="20398-0">
+        <source xml:lang="en-US">View on map</source>
+        <target xml:lang="pt-BR">Visualizar no mapa</target>
+      </trans-unit>
+      <trans-unit id="20399-0">
+        <source xml:lang="en-US">Your certificate is being reviewed</source>
+        <target xml:lang="pt-BR">Seu certificado está sendo revisado</target>
+      </trans-unit>
+      <trans-unit id="20400-0">
+        <source xml:lang="en-US">Your certificate is no longer valid</source>
+        <target xml:lang="pt-BR">Seu certificado não é mais válido</target>
+      </trans-unit>
+      <trans-unit id="20401-0">
+        <source xml:lang="en-US">These are all the resale certificates that you've submitted</source>
+        <target xml:lang="pt-BR">Esses são os certificados de revenda que você enviou</target>
+      </trans-unit>
+      <trans-unit id="20402-0">
+        <source xml:lang="en-US">You can find a full list of states where we charge sales tax {linkStart}here.{linkEnd}</source>
+        <target xml:lang="pt-BR">Encontre uma lista completa de estados onde cobramos impostos sobre vendas {linkStart}aqui.{linkEnd}</target>
+      </trans-unit>
+      <trans-unit id="21532-0">
+        <source xml:lang="en-US">Back to gift cards</source>
+        <target xml:lang="pt-BR">Voltar para vales-presente</target>
+      </trans-unit>
+      <trans-unit id="21534-0">
+        <source xml:lang="en-US">Gift card</source>
+        <target xml:lang="pt-BR">Vale-presente</target>
+      </trans-unit>
+      <trans-unit id="22991-0">
+        <source xml:lang="en-US">discount</source>
+        <target xml:lang="pt-BR">desconto</target>
+      </trans-unit>
+      <trans-unit id="22992-0">
+        <source xml:lang="en-US">Next month forecast</source>
+        <target xml:lang="pt-BR">Previsão para o próximo mês</target>
+      </trans-unit>
+      <trans-unit id="22994-0">
+        <source xml:lang="en-US">This month</source>
+        <target xml:lang="pt-BR">Este mês</target>
+      </trans-unit>
+      <trans-unit id="22995-0">
+        <source xml:lang="en-US">+1 sample order</source>
+        <target xml:lang="pt-BR">+1 pedido de amostra</target>
+      </trans-unit>
+      <trans-unit id="22997-0">
+        <source xml:lang="en-US">Your current status</source>
+        <target xml:lang="pt-BR">Seu status atual</target>
+      </trans-unit>
+      <trans-unit id="22999-0">
+        <source xml:lang="en-US">Sample orders</source>
+        <target xml:lang="pt-BR">Pedidos de amostra</target>
+      </trans-unit>
+      <trans-unit id="23750-0">
+        <source xml:lang="en-US">successfully removed!</source>
+        <target xml:lang="pt-BR">removidos com sucesso.</target>
+      </trans-unit>
+      <trans-unit id="23751-0">
+        <source xml:lang="en-US">Canada GST/HST/PST/QST number</source>
+        <target xml:lang="pt-BR">Número GST/HST/PST/QST do Canadá</target>
+      </trans-unit>
+      <trans-unit id="23754-0">
+        <source xml:lang="en-US">successfully added!</source>
+        <target xml:lang="pt-BR">incluído com sucesso!</target>
+      </trans-unit>
+      <trans-unit id="23970-0">
+        <source xml:lang="en-US">Sale price ends in</source>
+        <target xml:lang="pt-BR">O preço de venda finaliza em</target>
+      </trans-unit>
+      <trans-unit id="24614-0">
+        <source xml:lang="en-US">Klarna slice it</source>
+        <target xml:lang="pt-BR">Klarna Slice It</target>
+      </trans-unit>
+      <trans-unit id="24619-0">
+        <source xml:lang="en-US">Klarna pay now</source>
+        <target xml:lang="pt-BR">Klarna Pay Now</target>
+      </trans-unit>
+      <trans-unit id="24621-0">
+        <source xml:lang="en-US">Klarna</source>
+        <target xml:lang="pt-BR">Klarna</target>
+      </trans-unit>
+      <trans-unit id="24624-0">
+        <source xml:lang="en-US">Confirm the charge using no pay</source>
+        <target xml:lang="pt-BR">Confirmar a cobrança sem nenhum pagamento</target>
+      </trans-unit>
+      <trans-unit id="24774-0">
+        <source xml:lang="en-US">House number</source>
+        <target xml:lang="pt-BR">Número da casa</target>
+      </trans-unit>
+      <trans-unit id="24775-0">
+        <source xml:lang="en-US">Corporate registration number (10 digits)</source>
+        <target xml:lang="pt-BR">Número de cadastro corporativo (10 dígitos)</target>
+      </trans-unit>
+      <trans-unit id="24776-0">
+        <source xml:lang="en-US">Add new method</source>
+        <target xml:lang="pt-BR">Incluir novo método</target>
+      </trans-unit>
+      <trans-unit id="24777-0">
+        <source xml:lang="en-US">Mobile number</source>
+        <target xml:lang="pt-BR">Número de celular</target>
+      </trans-unit>
+      <trans-unit id="24778-0">
+        <source xml:lang="en-US">Shopper Reference</source>
+        <target xml:lang="pt-BR">Referência do comprador</target>
+      </trans-unit>
+      <trans-unit id="24779-0">
+        <source xml:lang="en-US">Read instructions</source>
+        <target xml:lang="pt-BR">Instruções de leitura</target>
+      </trans-unit>
+      <trans-unit id="24780-0">
+        <source xml:lang="en-US">Payment Successful</source>
+        <target xml:lang="pt-BR">Pagamento realizado com sucesso</target>
+      </trans-unit>
+      <trans-unit id="24781-0">
+        <source xml:lang="en-US">Holder Name</source>
+        <target xml:lang="pt-BR">Nome do titular</target>
+      </trans-unit>
+      <trans-unit id="24782-0">
+        <source xml:lang="en-US">Female</source>
+        <target xml:lang="pt-BR">Feminino</target>
+      </trans-unit>
+      <trans-unit id="24783-0">
+        <source xml:lang="en-US">Payment failed</source>
+        <target xml:lang="pt-BR">Pagamento falhou</target>
+      </trans-unit>
+      <trans-unit id="24784-0">
+        <source xml:lang="en-US">Delivery Address</source>
+        <target xml:lang="pt-BR">Endereço de entrega</target>
+      </trans-unit>
+      <trans-unit id="24785-0">
+        <source xml:lang="en-US">Entity</source>
+        <target xml:lang="pt-BR">Entidade</target>
+      </trans-unit>
+      <trans-unit id="24786-0">
+        <source xml:lang="en-US">Bank account</source>
+        <target xml:lang="pt-BR">Conta bancária</target>
+      </trans-unit>
+      <trans-unit id="24787-0">
+        <source xml:lang="en-US">consent</source>
+        <target xml:lang="pt-BR">consentimento</target>
+      </trans-unit>
+      <trans-unit id="24788-0">
+        <source xml:lang="en-US">Street</source>
+        <target xml:lang="pt-BR">Rua</target>
+      </trans-unit>
+      <trans-unit id="24790-0">
+        <source xml:lang="en-US">3 digits</source>
+        <target xml:lang="pt-BR">3 dígitos</target>
+      </trans-unit>
+      <trans-unit id="24791-0">
+        <source xml:lang="en-US">Name on card</source>
+        <target xml:lang="pt-BR">Nome impresso no cartão</target>
+      </trans-unit>
+      <trans-unit id="24792-0">
+        <source xml:lang="en-US">Select country</source>
+        <target xml:lang="pt-BR">Selecionar o país</target>
+      </trans-unit>
+      <trans-unit id="24793-0">
+        <source xml:lang="en-US">Preauthorize with</source>
+        <target xml:lang="pt-BR">Pré-autorizar com</target>
+      </trans-unit>
+      <trans-unit id="24794-0">
+        <source xml:lang="en-US">More information</source>
+        <target xml:lang="pt-BR">Mais informações</target>
+      </trans-unit>
+      <trans-unit id="24795-0">
+        <source xml:lang="en-US">Open the app</source>
+        <target xml:lang="pt-BR">Abrir o aplicativo</target>
+      </trans-unit>
+      <trans-unit id="24797-0">
+        <source xml:lang="en-US">Invalid Cardholder birthdate or Corporate registration number</source>
+        <target xml:lang="pt-BR">Data de nascimento do titular do cartão ou número de cadastro corporativo inválidos</target>
+      </trans-unit>
+      <trans-unit id="24798-0">
+        <source xml:lang="en-US">Pay</source>
+        <target xml:lang="pt-BR">Pagar</target>
+      </trans-unit>
+      <trans-unit id="24801-0">
+        <source xml:lang="en-US">YY</source>
+        <target xml:lang="pt-BR">AA</target>
+      </trans-unit>
+      <trans-unit id="24802-0">
+        <source xml:lang="en-US">Shopper Name</source>
+        <target xml:lang="pt-BR">Nome do comprador</target>
+      </trans-unit>
+      <trans-unit id="24803-0">
+        <source xml:lang="en-US">Invalid ABA routing number</source>
+        <target xml:lang="pt-BR">Código de identificação dos bancos (ABA) inválido</target>
+      </trans-unit>
+      <trans-unit id="24804-0">
+        <source xml:lang="en-US">Invalid cardholder name</source>
+        <target xml:lang="pt-BR">Nome do titular do cartão inválido</target>
+      </trans-unit>
+      <trans-unit id="24805-0">
+        <source xml:lang="en-US">Invalid account number</source>
+        <target xml:lang="pt-BR">Número da conta inválido</target>
+      </trans-unit>
+      <trans-unit id="24806-0">
+        <source xml:lang="en-US">Apply Giftcard</source>
+        <target xml:lang="pt-BR">Aplicar vale-presente</target>
+      </trans-unit>
+      <trans-unit id="24807-0">
+        <source xml:lang="en-US">Your payment is being processed</source>
+        <target xml:lang="pt-BR">Seu pagamento está sendo processado</target>
+      </trans-unit>
+      <trans-unit id="24808-0">
+        <source xml:lang="en-US">CVC / CVV</source>
+        <target xml:lang="pt-BR">CVC / CVV</target>
+      </trans-unit>
+      <trans-unit id="24809-0">
+        <source xml:lang="en-US">You have %@ to pay</source>
+        <target xml:lang="pt-BR">Você tem %@ para pagar</target>
+      </trans-unit>
+      <trans-unit id="24810-0">
+        <source xml:lang="en-US">Redirect failed</source>
+        <target xml:lang="pt-BR">Redirecionamento falhou</target>
+      </trans-unit>
+      <trans-unit id="24811-0">
+        <source xml:lang="en-US">More payment methods</source>
+        <target xml:lang="pt-BR">Mais formas de pagamento</target>
+      </trans-unit>
+      <trans-unit id="24812-0">
+        <source xml:lang="en-US">Confirm Purchase</source>
+        <target xml:lang="pt-BR">Confirmar a compra</target>
+      </trans-unit>
+      <trans-unit id="24813-0">
+        <source xml:lang="en-US">No search results</source>
+        <target xml:lang="pt-BR">Nenhum resultado de pesquisa</target>
+      </trans-unit>
+      <trans-unit id="24814-0">
+        <source xml:lang="en-US">payment conditions</source>
+        <target xml:lang="pt-BR">condições de pagamento</target>
+      </trans-unit>
+      <trans-unit id="24815-0">
+        <source xml:lang="en-US">123</source>
+        <target xml:lang="pt-BR">123</target>
+      </trans-unit>
+      <trans-unit id="24816-0">
+        <source xml:lang="en-US">Specify a separate delivery address</source>
+        <target xml:lang="pt-BR">Especificar um outro endereço de entrega</target>
+      </trans-unit>
+      <trans-unit id="24817-0">
+        <source xml:lang="en-US">Postal code</source>
+        <target xml:lang="pt-BR">Código postal</target>
+      </trans-unit>
+      <trans-unit id="24818-0">
+        <source xml:lang="en-US">Stored card ends in %@</source>
+        <target xml:lang="pt-BR">O cartão armazenado finaliza em %@</target>
+      </trans-unit>
+      <trans-unit id="24819-0">
+        <source xml:lang="en-US">Alternative Reference</source>
+        <target xml:lang="pt-BR">Referência alternativa</target>
+      </trans-unit>
+      <trans-unit id="24820-0">
+        <source xml:lang="en-US">Copy</source>
+        <target xml:lang="pt-BR">Copiar</target>
+      </trans-unit>
+      <trans-unit id="24821-0">
+        <source xml:lang="en-US">{currencyCode} wallet</source>
+        <target xml:lang="pt-BR">{currencyCode} carteira</target>
+      </trans-unit>
+      <trans-unit id="24822-0">
+        <source xml:lang="en-US">4 digits</source>
+        <target xml:lang="pt-BR">4 dígitos</target>
+      </trans-unit>
+      <trans-unit id="24823-0">
+        <source xml:lang="en-US">Select state or province</source>
+        <target xml:lang="pt-BR">Selecionar o estado ou a província</target>
+      </trans-unit>
+      <trans-unit id="24824-0">
+        <source xml:lang="en-US">ABA routing number</source>
+        <target xml:lang="pt-BR">Código de identificação ABA</target>
+      </trans-unit>
+      <trans-unit id="24825-0">
+        <source xml:lang="en-US">State or province</source>
+        <target xml:lang="pt-BR">Estado ou província</target>
+      </trans-unit>
+      <trans-unit id="24826-0">
+        <source xml:lang="en-US">Payment Reference</source>
+        <target xml:lang="pt-BR">Referência de pagamento</target>
+      </trans-unit>
+      <trans-unit id="24827-0">
+        <source xml:lang="en-US">Billing address</source>
+        <target xml:lang="pt-BR">Endereço de cobrança</target>
+      </trans-unit>
+      <trans-unit id="24828-0">
+        <source xml:lang="en-US">Privacy policy</source>
+        <target xml:lang="pt-BR">Política de privacidade</target>
+      </trans-unit>
+      <trans-unit id="24829-0">
+        <source xml:lang="en-US">Expires at {expiryDate}</source>
+        <target xml:lang="pt-BR">Expira em {expiryDate}</target>
+      </trans-unit>
+      <trans-unit id="24830-0">
+        <source xml:lang="en-US">Invalid account holder name</source>
+        <target xml:lang="pt-BR">Nome do titular da conta inválido</target>
+      </trans-unit>
+      <trans-unit id="24832-0">
+        <source xml:lang="en-US">DD/MM/YYYY</source>
+        <target xml:lang="pt-BR">DD/MM/AAAA</target>
+      </trans-unit>
+      <trans-unit id="24833-0">
+        <source xml:lang="en-US">Confirm preauthorization</source>
+        <target xml:lang="pt-BR">Confirmar a pré-autorização</target>
+      </trans-unit>
+      <trans-unit id="24834-0">
+        <source xml:lang="en-US">Payment refused</source>
+        <target xml:lang="pt-BR">Pagamento recusado</target>
+      </trans-unit>
+      <trans-unit id="24835-0">
+        <source xml:lang="en-US">Expiration Date</source>
+        <target xml:lang="pt-BR">Data de validade</target>
+      </trans-unit>
+      <trans-unit id="24836-0">
+        <source xml:lang="en-US">Generate QR Code</source>
+        <target xml:lang="pt-BR">Gerar código QR</target>
+      </trans-unit>
+      <trans-unit id="24837-0">
+        <source xml:lang="en-US">Remove stored payment method</source>
+        <target xml:lang="pt-BR">Remover a forma de pagamento armazenada</target>
+      </trans-unit>
+      <trans-unit id="24838-0">
+        <source xml:lang="en-US">Phone Number</source>
+        <target xml:lang="pt-BR">Número de telefone</target>
+      </trans-unit>
+      <trans-unit id="24839-0">
+        <source xml:lang="en-US">Month</source>
+        <target xml:lang="pt-BR">Mês</target>
+      </trans-unit>
+      <trans-unit id="24840-0">
+        <source xml:lang="en-US">I agree with the %@ of AfterPay</source>
+        <target xml:lang="pt-BR">Concordo com o %@ do AfterPay</target>
+      </trans-unit>
+      <trans-unit id="24841-0">
+        <source xml:lang="en-US">MM/YY</source>
+        <target xml:lang="pt-BR">MM/AA</target>
+      </trans-unit>
+      <trans-unit id="24842-0">
+        <source xml:lang="en-US">Thank you for your purchase, please use the following coupon to complete your payment.</source>
+        <target xml:lang="pt-BR">Agradecemos sua compra, use o seguinte cupom para completar seu pagamento.</target>
+      </trans-unit>
+      <trans-unit id="24843-0">
+        <source xml:lang="en-US">Male</source>
+        <target xml:lang="pt-BR">Masculino</target>
+      </trans-unit>
+      <trans-unit id="24844-0">
+        <source xml:lang="en-US">Continue to</source>
+        <target xml:lang="pt-BR">Continuar para</target>
+      </trans-unit>
+      <trans-unit id="24845-0">
+        <source xml:lang="en-US">Number of installments</source>
+        <target xml:lang="pt-BR">Número de parcelas</target>
+      </trans-unit>
+      <trans-unit id="24846-0">
+        <source xml:lang="en-US">Last name</source>
+        <target xml:lang="pt-BR">Sobrenome</target>
+      </trans-unit>
+      <trans-unit id="24847-0">
+        <source xml:lang="en-US">Telephone number</source>
+        <target xml:lang="pt-BR">Número de telefone</target>
+      </trans-unit>
+      <trans-unit id="24848-0">
+        <source xml:lang="en-US">Loading…</source>
+        <target xml:lang="pt-BR">Carregando...</target>
+      </trans-unit>
+      <trans-unit id="24849-0">
+        <source xml:lang="en-US">Prefix</source>
+        <target xml:lang="pt-BR">Prefixo</target>
+      </trans-unit>
+      <trans-unit id="24851-0">
+        <source xml:lang="en-US">Invalid password</source>
+        <target xml:lang="pt-BR">Senha inválida</target>
+      </trans-unit>
+      <trans-unit id="24852-0">
+        <source xml:lang="en-US">You will be redirected…</source>
+        <target xml:lang="pt-BR">Você será redirecionado...</target>
+      </trans-unit>
+      <trans-unit id="24853-0">
+        <source xml:lang="en-US">CPF/CNPJ</source>
+        <target xml:lang="pt-BR">CPF/CNPJ</target>
+      </trans-unit>
+      <trans-unit id="24854-0">
+        <source xml:lang="en-US">Min. 4 characters</source>
+        <target xml:lang="pt-BR">Min. de 4 caracteres</target>
+      </trans-unit>
+      <trans-unit id="24855-0">
+        <source xml:lang="en-US">Billing method not selected</source>
+        <target xml:lang="pt-BR">Método de cobrança não selecionado</target>
+      </trans-unit>
+      <trans-unit id="24856-0">
+        <source xml:lang="en-US">Invalid expiry date</source>
+        <target xml:lang="pt-BR">Data de validade inválida</target>
+      </trans-unit>
+      <trans-unit id="24857-0">
+        <source xml:lang="en-US">Year</source>
+        <target xml:lang="pt-BR">Ano</target>
+      </trans-unit>
+      <trans-unit id="24858-0">
+        <source xml:lang="en-US">BIC (Bank Identifier Code)</source>
+        <target xml:lang="pt-BR">BIC (código de identificação do banco)</target>
+      </trans-unit>
+      <trans-unit id="24859-0">
+        <source xml:lang="en-US">6-digit code</source>
+        <target xml:lang="pt-BR">Código de 6 dígitos</target>
+      </trans-unit>
+      <trans-unit id="24861-0">
+        <source xml:lang="en-US">Account Number (IBAN)</source>
+        <target xml:lang="pt-BR">Número da conta (IBAN)</target>
+      </trans-unit>
+      <trans-unit id="24862-0">
+        <source xml:lang="en-US">Invalid CVC / CVV format</source>
+        <target xml:lang="pt-BR">Formato CVC / CVV inválido</target>
+      </trans-unit>
+      <trans-unit id="24863-0">
+        <source xml:lang="en-US">Thank you for your purchase), please use the following information to complete your payment.</source>
+        <target xml:lang="pt-BR">Agradecemos sua compra), use as seguintes informações para completar seu pagamento.</target>
+      </trans-unit>
+      <trans-unit id="24864-0">
+        <source xml:lang="en-US">Incl. %@ surcharge</source>
+        <target xml:lang="pt-BR">Incl. %@ sobretaxa</target>
+      </trans-unit>
+      <trans-unit id="24865-0">
+        <source xml:lang="en-US">First 2 digits of card password</source>
+        <target xml:lang="pt-BR">Primeiros 2 dígitos da senha do cartão</target>
+      </trans-unit>
+      <trans-unit id="24866-0">
+        <source xml:lang="en-US">Donate</source>
+        <target xml:lang="pt-BR">Doar</target>
+      </trans-unit>
+      <trans-unit id="24867-0">
+        <source xml:lang="en-US">1234 5678 9012 3456</source>
+        <target xml:lang="pt-BR">1234 5678 9012 3456</target>
+      </trans-unit>
+      <trans-unit id="24868-0">
+        <source xml:lang="en-US">Send a copy to my email</source>
+        <target xml:lang="pt-BR">Enviar uma cópia para meu e-mail</target>
+      </trans-unit>
+      <trans-unit id="24869-0">
+        <source xml:lang="en-US">Balance:</source>
+        <target xml:lang="pt-BR">Saldo:</target>
+      </trans-unit>
+      <trans-unit id="24870-0">
+        <source xml:lang="en-US">Thanks for your support!</source>
+        <target xml:lang="pt-BR">Agradecemos o apoio!</target>
+      </trans-unit>
+      <trans-unit id="24871-0">
+        <source xml:lang="en-US">Not now</source>
+        <target xml:lang="pt-BR">Agora não</target>
+      </trans-unit>
+      <trans-unit id="24873-0">
+        <source xml:lang="en-US">Redirecting...</source>
+        <target xml:lang="pt-BR">Redirecionando...</target>
+      </trans-unit>
+      <trans-unit id="24874-0">
+        <source xml:lang="en-US">Your address details could not be retrieved. Please check your date of birth and/or social security number and try again.</source>
+        <target xml:lang="pt-BR">Os detalhes de seu endereço não foram recuperados. Verifique sua data de nascimento e/ou seu número do seguro social e tente novamente.</target>
+      </trans-unit>
+      <trans-unit id="24875-0">
+        <source xml:lang="en-US">Select your bank</source>
+        <target xml:lang="pt-BR">Selecione seu banco</target>
+      </trans-unit>
+      <trans-unit id="24876-0">
+        <source xml:lang="en-US">Bank</source>
+        <target xml:lang="pt-BR">Banco</target>
+      </trans-unit>
+      <trans-unit id="24877-0">
+        <source xml:lang="en-US">Bankname / BIC / Bankleitzahl</source>
+        <target xml:lang="pt-BR">Nome do banco / BIC / Bankleitzahl</target>
+      </trans-unit>
+      <trans-unit id="24878-0">
+        <source xml:lang="en-US">Account number</source>
+        <target xml:lang="pt-BR">Número da conta</target>
+      </trans-unit>
+      <trans-unit id="24879-0">
+        <source xml:lang="en-US">E-mail address</source>
+        <target xml:lang="pt-BR">Endereço de e-mail</target>
+      </trans-unit>
+      <trans-unit id="24880-0">
+        <source xml:lang="en-US">Scan QR code</source>
+        <target xml:lang="pt-BR">Escanear código QR</target>
+      </trans-unit>
+      <trans-unit id="24881-0">
+        <source xml:lang="en-US">Date of birth</source>
+        <target xml:lang="pt-BR">Data de nascimento</target>
+      </trans-unit>
+      <trans-unit id="24882-0">
+        <source xml:lang="en-US">Invalid CVC</source>
+        <target xml:lang="pt-BR">CVC inválido</target>
+      </trans-unit>
+      <trans-unit id="24883-0">
+        <source xml:lang="en-US">Error</source>
+        <target xml:lang="pt-BR">Erro</target>
+      </trans-unit>
+      <trans-unit id="24884-0">
+        <source xml:lang="en-US">Billing info</source>
+        <target xml:lang="pt-BR">Informações de cobrança</target>
+      </trans-unit>
+      <trans-unit id="24885-0">
+        <source xml:lang="en-US">Gender</source>
+        <target xml:lang="pt-BR">Gênero</target>
+      </trans-unit>
+      <trans-unit id="24886-0">
+        <source xml:lang="en-US">Expiry date</source>
+        <target xml:lang="pt-BR">Data de validade</target>
+      </trans-unit>
+      <trans-unit id="24887-0">
+        <source xml:lang="en-US">CVC / CVV (optional)</source>
+        <target xml:lang="pt-BR">CVC / CVV (opcional)</target>
+      </trans-unit>
+      <trans-unit id="24888-0">
+        <source xml:lang="en-US">Select your provider</source>
+        <target xml:lang="pt-BR">Selecione seu fornecedor</target>
+      </trans-unit>
+      <trans-unit id="24889-0">
+        <source xml:lang="en-US">Continue</source>
+        <target xml:lang="pt-BR">Continuar</target>
+      </trans-unit>
+      <trans-unit id="24890-0">
+        <source xml:lang="en-US">J. Smith</source>
+        <target xml:lang="pt-BR">J. Smith</target>
+        <note>Context??</note>
+      </trans-unit>
+      <trans-unit id="24891-0">
+        <source xml:lang="en-US">I consent to the processing of my data by Klarna for the purposes of identity- and credit assessment and the settlement of the purchase. I may revoke my %@ for the processing of data and for the purposes for which this is possible according to law. The general terms and conditions of the merchant apply.</source>
+        <target xml:lang="pt-BR">Concordo com o processamento de meus dados pela Klarna para fins de avaliação de identidade e crédito e de liquidação da compra. Posso revogar meu %@ para o processamento de dados e para os fins para os quais isso é possível de acordo com a lei. Os termos e condições gerais do vendedor se aplicam.</target>
+      </trans-unit>
+      <trans-unit id="24892-0">
+        <source xml:lang="en-US">Personal details</source>
+        <target xml:lang="pt-BR">Dados pessoais</target>
+      </trans-unit>
+      <trans-unit id="24894-0">
+        <source xml:lang="en-US">Pin</source>
+        <target xml:lang="pt-BR">Pin</target>
+      </trans-unit>
+      <trans-unit id="24895-0">
+        <source xml:lang="en-US">Cardholder birthdate (YYMMDD) or Corporate registration number (10 digits)</source>
+        <target xml:lang="pt-BR">Data de nascimento do titular do cartão (AAMMDD) ou número de cadastro corporativo (10 dígitos)</target>
+      </trans-unit>
+      <trans-unit id="24896-0">
+        <source xml:lang="en-US">Get the code from your banking app.</source>
+        <target xml:lang="pt-BR">Obter o código a partir de seu aplicativo do banco.</target>
+      </trans-unit>
+      <trans-unit id="24897-0">
+        <source xml:lang="en-US">Generate Boleto</source>
+        <target xml:lang="pt-BR">Gerar Boleto</target>
+      </trans-unit>
+      <trans-unit id="24898-0">
+        <source xml:lang="en-US">Enter 6 numbers</source>
+        <target xml:lang="pt-BR">Insira 6 números</target>
+      </trans-unit>
+      <trans-unit id="24899-0">
+        <source xml:lang="en-US">First name</source>
+        <target xml:lang="pt-BR">Nome</target>
+      </trans-unit>
+      <trans-unit id="24900-0">
+        <source xml:lang="en-US">Invalid card number</source>
+        <target xml:lang="pt-BR">Número do cartão inválido</target>
+      </trans-unit>
+      <trans-unit id="24901-0">
+        <source xml:lang="en-US">Yes, remove</source>
+        <target xml:lang="pt-BR">Sim, remover</target>
+      </trans-unit>
+      <trans-unit id="24902-0">
+        <source xml:lang="en-US">An unknown error occurred</source>
+        <target xml:lang="pt-BR">Ocorreu um erro desconhecido</target>
+      </trans-unit>
+      <trans-unit id="24903-0">
+        <source xml:lang="en-US">Save for my next payment</source>
+        <target xml:lang="pt-BR">Salvar para o próximo pagamento</target>
+      </trans-unit>
+      <trans-unit id="24904-0">
+        <source xml:lang="en-US">MM</source>
+        <target xml:lang="pt-BR">MM</target>
+      </trans-unit>
+      <trans-unit id="24905-0">
+        <source xml:lang="en-US">Account holder name</source>
+        <target xml:lang="pt-BR">Nome do titular da conta</target>
+      </trans-unit>
+      <trans-unit id="24906-0">
+        <source xml:lang="en-US">Remember for next time</source>
+        <target xml:lang="pt-BR">Lembrar para a próxima vez</target>
+      </trans-unit>
+      <trans-unit id="24907-0">
+        <source xml:lang="en-US">Card number</source>
+        <target xml:lang="pt-BR">Número do cartão</target>
+      </trans-unit>
+      <trans-unit id="24908-0">
+        <source xml:lang="en-US">Country Code</source>
+        <target xml:lang="pt-BR">Código do país</target>
+      </trans-unit>
+      <trans-unit id="24909-0">
+        <source xml:lang="en-US">Expired {expiryDate}</source>
+        <target xml:lang="pt-BR">Vencido {expiryDate}</target>
+      </trans-unit>
+      <trans-unit id="24910-0">
+        <source xml:lang="en-US">Social security number</source>
+        <target xml:lang="pt-BR">Número do seguro social</target>
+      </trans-unit>
+      <trans-unit id="24912-0">
+        <source xml:lang="en-US">Open your banking app to confirm the payment.</source>
+        <target xml:lang="pt-BR">Abra seu aplicativo do banco para confirmar o pagamento.</target>
+      </trans-unit>
+      <trans-unit id="24918-0">
+        <source xml:lang="en-US">We do not store your card or billing method details. We use industry-standard encryption to protect your personal information.</source>
+        <target xml:lang="pt-BR">Não armazenamos seu cartão ou detalhes do método de cobrança. Utilizamos a criptografia padrão do setor para proteger suas informações pessoais.</target>
+      </trans-unit>
+      <trans-unit id="25575-0">
+        <source xml:lang="en-US">Holder name</source>
+        <target xml:lang="pt-BR">Nome do titular</target>
+      </trans-unit>
+      <trans-unit id="25576-0">
+        <source xml:lang="en-US">Valid thru</source>
+        <target xml:lang="pt-BR">Válido até</target>
+      </trans-unit>
+      <trans-unit id="25821-0">
+        <source xml:lang="en-US">It looks like you haven’t submitted any resale certificates</source>
+        <target xml:lang="pt-BR">Parece que você não enviou nenhum certificado de revenda</target>
+      </trans-unit>
+      <trans-unit id="25885-0">
+        <source xml:lang="en-US">Cancel plan</source>
+        <target xml:lang="pt-BR">Cancelar o plano</target>
+      </trans-unit>
+      <trans-unit id="25918-0">
+        <source xml:lang="en-US">Download exclusive pricing list</source>
+        <target xml:lang="pt-BR">Fazer o download da lista exclusiva de preços</target>
+      </trans-unit>
+      <trans-unit id="26001-0">
+        <source xml:lang="en-US">Accumulated sales from last month</source>
+        <target xml:lang="pt-BR">Vendas acumuladas do mês passado</target>
+      </trans-unit>
+      <trans-unit id="26023-0">
+        <source xml:lang="en-US">Press "{buttonText}" to continue</source>
+        <target xml:lang="pt-BR">Clique em “{buttonText}” para continuar</target>
+      </trans-unit>
+      <trans-unit id="26038-0">
+        <source xml:lang="en-US">GST/PST/QST/HST rates are applied accordingly to the regulations in the appropriate state</source>
+        <target xml:lang="pt-BR">As taxas de GST/PST/QST/HST são aplicadas de acordo com a regulamentação do estado</target>
+      </trans-unit>
+      <trans-unit id="26039-0">
+        <source xml:lang="en-US">GST/PST/HST</source>
+        <target xml:lang="pt-BR">GST/PST/HST</target>
+      </trans-unit>
+      <trans-unit id="26118-0">
+        <source xml:lang="en-US">Payment card</source>
+        <target xml:lang="pt-BR">Cartão de pagamento</target>
+      </trans-unit>
+      <trans-unit id="26185-0">
+        <source xml:lang="en-US">Subscription payment</source>
+        <target xml:lang="pt-BR">Pagamento da assinatura</target>
+      </trans-unit>
+      <trans-unit id="26411-0">
+        <source xml:lang="en-US">Oh no! We’re experiencing some issues.</source>
+        <target xml:lang="pt-BR">Essa não! Estamos tendo dificuldades.</target>
+      </trans-unit>
+      <trans-unit id="26412-0">
+        <source xml:lang="en-US">Looks like there’s a problem with our payment system. While we’re fixing this, please add your payment details manually.</source>
+        <target xml:lang="pt-BR">Parece que temos um problema com nosso sistema de pagamento. Enquanto trabalhamos em uma solução, por favor inclua seus dados de pagamento manualmente.</target>
+      </trans-unit>
+      <trans-unit id="26413-0">
+        <source xml:lang="en-US">Oops, looks like there’s a problem with payments.</source>
+        <target xml:lang="pt-BR">Oops, parece que temos um problema com os pagamentos.</target>
+      </trans-unit>
+      <trans-unit id="26414-0">
+        <source xml:lang="en-US">Were working on fixing this. Please try adding your billing method later.</source>
+        <target xml:lang="pt-BR">Estamos trabalhando em uma solução. Por favor, tente incluir seu método de cobrança mais tarde.</target>
+      </trans-unit>
+      <trans-unit id="26788-0">
+        <source xml:lang="en-US">Subscription Fee</source>
+        <target xml:lang="pt-BR">Taxa de assinatura</target>
+      </trans-unit>
+      <trans-unit id="26839-0">
+        <source xml:lang="en-US">Only Admin users can enable subscriptions.</source>
+        <target xml:lang="pt-BR">Apenas usuários administradores podem ativar assinaturas.</target>
+      </trans-unit>
+      <trans-unit id="27453-0">
+        <source xml:lang="en-US">Press the yellow PayPal button below to authorize your account.</source>
+        <target xml:lang="pt-BR">Clique no botão amarelo do PayPal abaixo para autorizar sua conta.</target>
+      </trans-unit>
+      <trans-unit id="28160-0">
+        <source xml:lang="en-US">Success! Discount code {formattedCode} has been applied to your whole order!</source>
+        <target xml:lang="pt-BR">Sucesso! O código de desconto {formattedCode} foi aplicado a todo o seu pedido!</target>
+      </trans-unit>
+      <trans-unit id="28161-0">
+        <source xml:lang="en-US">Success! Gift card {formattedCode} has been applied to your whole order!</source>
+        <target xml:lang="pt-BR">Sucesso! O vale-presente {formattedCode} foi aplicado a todo o seu pedido!</target>
+      </trans-unit>
+      <trans-unit id="28936-0">
+        <source xml:lang="en-US">Your discounts</source>
+        <target xml:lang="pt-BR">Seus descontos</target>
+      </trans-unit>
+      <trans-unit id="28955-0">
+        <source xml:lang="en-US">Printful is obligated by law to collect value-added tax (VAT) on orders that we fulfill at our Europe location with a destination in the EU. If you're a registered VAT payer and submit your VAT ID to us here, then we'll charge you 0% VAT (except for countries {helpLinkStart}where Printful is registered as VAT payer{helpLinkEnd}). Note that {faqLinkStart}you might also be liable to collect VAT from your customers{faqLinkEnd}. Note that this does not constitute professional tax advice. We strongly advise consulting a tax specialist to find out your specific obligations.</source>
+        <target xml:lang="pt-BR">A Printful é obrigada por lei a cobrar o imposto sobre o valor agregado (VAT) nos pedidos processados em nossa filial na Europa com um destino na UE. Se você é um contribuinte cadastrado e nos enviar sua identificação VAT aqui, cobraremos 0% de VAT (exceto em países {helpLinkStart}onde a Printful está cadastrada como um contribuinte VAT{helpLinkEnd}). Importante: {faqLinkStart}você também pode ter a responsabilidade de cobrar o VAT de seus clientes{faqLinkEnd}. Importante: isso não se constitui como consultoria fiscal profissional. Recomendamos consultar um especialista em impostos para saber quais são suas obrigações específicas.</target>
+      </trans-unit>
+      <trans-unit id="29147-0">
+        <source xml:lang="en-US">Region</source>
+        <target xml:lang="pt-BR">Região</target>
+      </trans-unit>
+      <trans-unit id="29155-0">
+        <source xml:lang="en-US">Note that VAT (value-added tax) and customs duties will apply for orders valued at 135 GBP and up.</source>
+        <target xml:lang="pt-BR">Importante: o VAT (imposto sobre o valor agregado) e as taxas aduaneiras serão aplicáveis em pedidos com valor de 135 GBP ou acima.</target>
+      </trans-unit>
+      <trans-unit id="29383-0">
+        <source xml:lang="en-US">This code can’t be applied to your order. Choose a different shipping option and try again</source>
+        <target xml:lang="pt-BR">Este código não pode ser aplicado a seu pedido. Escolha outra opção de envio e tente novamente</target>
+      </trans-unit>
+      <trans-unit id="29508-0">
+        <source xml:lang="en-US">Official name:</source>
+        <target xml:lang="pt-BR">Nome oficial:</target>
+      </trans-unit>
+      <trans-unit id="29509-0">
+        <source xml:lang="en-US">Our legal details for your resale certificate:</source>
+        <target xml:lang="pt-BR">Nossos dados legais para seu certificado de revenda:</target>
+      </trans-unit>
+      <trans-unit id="29718-0">
+        <source xml:lang="en-US">Add {depositAmount} to your Printful Wallet?</source>
+        <target xml:lang="pt-BR">Adicionar {depositAmount} à sua Carteira Printful?</target>
+      </trans-unit>
+      <trans-unit id="29725-0">
+        <source xml:lang="en-US">Printful wallets</source>
+        <target xml:lang="pt-BR">Carteiras Printful</target>
+      </trans-unit>
+      <trans-unit id="29726-0">
+        <source xml:lang="en-US">wallet</source>
+        <target xml:lang="pt-BR">carteira</target>
+      </trans-unit>
+      <trans-unit id="29735-0">
+        <source xml:lang="en-US">Wallets that are not used for more than 4 weeks will be automatically moved to Other Wallets.</source>
+        <target xml:lang="pt-BR">As carteiras não utilizadas por mais de 4 semanas serão automaticamente movidas para Outras Carteiras.</target>
+      </trans-unit>
+      <trans-unit id="29736-0">
+        <source xml:lang="en-US">Each Wallet can only be used to pay for orders in the same currency (eg. you can't pay for an order in EUR from your USD Wallet). And it's not possible to transfer money from one Wallet to another. More on Printful Wallets in our {linkStart}FAQ{linkEnd}.</source>
+        <target xml:lang="pt-BR">Cada Carteira só pode ser utilizada para pagar por pedidos na mesma moeda (por exemplo, não é possível pagar por um pedido em EUR com sua Carteira de USD). Não é possível transferir dinheiro de uma Carteira para outra. Saiba mais sobre as Carteiras Printful na seção de {linkStart}FAQ{linkEnd}</target>
+      </trans-unit>
+      <trans-unit id="30029-0">
+        <source xml:lang="en-US">Thanks for sticking out 2020 with us. If you had at least one sale in December, enjoy two extra sample orders, valid until January 31, 2021.</source>
+        <target xml:lang="pt-BR">Agradecemos por ter ficado conosco em 2020. Se você teve pelo menos uma venda em dezembro, aproveite dois pedidos de amostra adicionais, válidos até 31 de janeiro de 2021.</target>
+      </trans-unit>
+      <trans-unit id="30236-0">
+        <source xml:lang="en-US">Please enter a valid discount or gift card code</source>
+        <target xml:lang="pt-BR">Insira um código de desconto válido ou um vale-presente</target>
+      </trans-unit>
+      <trans-unit id="30237-0">
+        <source xml:lang="en-US">Apply a discount or gift card code to your order</source>
+        <target xml:lang="pt-BR">Aplique um código de desconto ou vale-presente ao seu pedido</target>
+      </trans-unit>
+      <trans-unit id="30238-0">
+        <source xml:lang="en-US">Discount or gift card code</source>
+        <target xml:lang="pt-BR">Código de desconto ou vale-presente</target>
+      </trans-unit>
+      <trans-unit id="30239-0">
+        <source xml:lang="en-US">Apply code</source>
+        <target xml:lang="pt-BR">Aplicar código</target>
+      </trans-unit>
+      <trans-unit id="30240-0">
+        <source xml:lang="en-US">Code accepted!</source>
+        <target xml:lang="pt-BR">Código aceito!</target>
+      </trans-unit>
+      <trans-unit id="30241-0">
+        <source xml:lang="en-US">Code has been removed.</source>
+        <target xml:lang="pt-BR">O código foi removido.</target>
+      </trans-unit>
+      <trans-unit id="30742-0">
+        <source xml:lang="en-US">Printful is obligated by law to charge GST/HST/PST/QST (goods and service tax/harmonized sales tax/provincial sales tax/Quebec sales tax). If you’re a registered seller in Canada, please add your GST/HST/PST/QST number. This doesn’t exempt you from our tax charge, but submitting your number here lets you include this tax in your GST/HST/PST/QST return as a tax credit. Please also make sure that you fill out your {linkBegin}Legal info{linkEnd} correctly as it will appear on your invoices.</source>
+        <target xml:lang="pt-BR">A Printful é obrigada a cobrar o GST/HST/PST/QST (imposto sobre bens e serviços/imposto sobre vendas harmonizado/imposto sobre vendas da província/imposto sobre vendas de Quebec). Se você é um vendedor cadastrado no Canadá, inclua seu número GST/HST/PST/QST. Isso não isenta você de nossa cobrança de impostos, mas o envio de seu número por aqui permite incluir esse imposto em sua declaração de GST/HST/PST/QST como um crédito de impostos. Certifique-se de preencher suas {linkBegin}informações legais{linkEnd} corretamente, pois elas serão incluídas em suas faturas.</target>
+      </trans-unit>
+      <trans-unit id="31094-0">
+        <source xml:lang="en-US">Third-party service is unavailable, please try again later.</source>
+        <target xml:lang="pt-BR">O serviço de terceiros está indisponível, tente novamente mais tarde.</target>
+      </trans-unit>
+      <trans-unit id="31520-0">
+        <source xml:lang="en-US">Sorry, the discount code is not applicable for this shipping country</source>
+        <target xml:lang="pt-BR">O código de desconto não é aplicável para esse país de envio</target>
+      </trans-unit>
+      <trans-unit id="32002-0">
+        <source xml:lang="en-US">This payment method can be used with {currency} only</source>
+        <target xml:lang="pt-BR">Este método de pagamento só pode ser utilizado com {currency}</target>
+      </trans-unit>
+      <trans-unit id="32003-0">
+        <source xml:lang="en-US">Your Most used Wallets only show Wallets that you use (eg. money has been recently added or withdrawn).</source>
+        <target xml:lang="pt-BR">Suas Carteiras mais utilizadas só mostram as Carteiras que você usa (por exemplo, o dinheiro foi recentemente adicionado ou retirado).</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
