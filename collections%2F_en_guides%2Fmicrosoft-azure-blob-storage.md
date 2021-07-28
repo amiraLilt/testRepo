@@ -7,6 +7,8 @@ tags: integrations
 
 ---
 
+This is a test!!!
+
 [Microsoft Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/) のパブリックコンテナとプライベートコンテナは、Fastly でオリジンとして使用できます。
 
 {% alert tip %}適切に設定されたサービスにより、Fastly と Microsoft のお客様は Fastly と Azure の ExpressRoute Direct Local との統合のメリットを受けることができるほか、Azure からのアウトバウンドデータ転送コストを Fastly の標準価格に含めることができます。 詳細については、[Azure からのアウトバウンドデータ転送ガイド](/ja/guides/outbound-data-transfer-from-azure)をご覧ください。{% endalert %}
