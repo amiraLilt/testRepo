@@ -8,6 +8,7 @@ tags: integrations
 ---
 
 This is a test!!!
+Another test
 
 [Microsoft Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/) のパブリックコンテナとプライベートコンテナは、Fastly でオリジンとして使用できます。
 
